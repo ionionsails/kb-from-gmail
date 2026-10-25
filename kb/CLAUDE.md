@@ -28,10 +28,21 @@ the most weight when the team's emails disagree.
 | `brokers/` | topic or agency | How we work with brokers: options, commission, invoices, payments. One page per agency only when it has its own terms. |
 | `faq/` | audience | `direct-clients.md`, `brokers.md`: the questions we get and the approved answer. |
 | `templates/` | email | Our standard emails: subject, structure, approved text. |
-| `decisions/` | — | `open.md`: conflicts the team must decide. `decided.md`: decisions taken, with date. |
+| `services/` | service | Bareboat, skippered, crewed, flotillas, learn to sail, private boat tours, yacht management, maintenance. |
+| `destinations/` | area | Sailing areas and routes from our bases: islands, distances, what to see. |
+| `company/` | topic | About us, why choose us, contact facts of the company. |
+| `decisions/` | — | `open.md`: conflicts the team must decide. `decided.md`: decisions taken, with date. `website-updates.md`: website pages that disagree with current practice. |
 
 Top level: `index.md` (every page, one line each) and `log.md` (what was added, when, from which emails).
-Raw data lives in `../sources/YYYY-MM.jsonl` (privacy-cleaned Q&A pairs and facts, one line each).
+Raw data lives in `../sources/YYYY-MM.jsonl` (privacy-cleaned Q&A pairs and facts from emails, one line each)
+and `../sources/website/` (main text of each ionionsails.com page, with its URL and fetch date; reviews without names).
+
+## Sources and which one wins
+
+- Emails show what the team does now. The website shows what we publish.
+- When they agree, the value has both as sources. When they disagree, keep both rows, mark the website one "(website)",
+  and open a decision. Do not overwrite either.
+- A website value tied to an old year or past offer is probably outdated: note it in `decisions/website-updates.md`.
 
 ## Page format
 

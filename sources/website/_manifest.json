@@ -1,0 +1,506 @@
+[
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/",
+  "file": "page__home.md",
+  "chars": 1109
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/pride-in-our-fleet/",
+  "file": "page__pride-in-our-fleet.md",
+  "chars": 2156
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/contact/",
+  "file": "page__contact.md",
+  "chars": 2134
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/bases-destinations/",
+  "file": "page__bases-destinations.md",
+  "chars": 1141
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/services/skippered-charters/",
+  "file": "page__services_skippered-charters.md",
+  "chars": 3835
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/services/maintenance/",
+  "file": "page__services_maintenance.md",
+  "chars": 3235
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/services/yacht-management/",
+  "file": "page__services_yacht-management.md",
+  "chars": 5875
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/services/",
+  "file": "page__services.md",
+  "chars": 312
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/services/bareboat-charters/",
+  "file": "page__services_bareboat-charters.md",
+  "chars": 3747
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/about-us/",
+  "file": "page__about-us.md",
+  "chars": 2961
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/why-choose-us/",
+  "file": "page__why-choose-us.md",
+  "chars": 6277
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/our-bases/",
+  "file": "page__our-bases.md",
+  "chars": 381
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/our-bases/lefkas-main-base/",
+  "file": "page__our-bases_lefkas-main-base.md",
+  "chars": 1628
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/our-bases/other-ionian-bases/",
+  "file": "page__our-bases_other-ionian-bases.md",
+  "chars": 1613
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/our-bases/athens-charter-bases/",
+  "file": "page__our-bases_athens-charter-bases.md",
+  "chars": 1348
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/our-bases/winter-base/",
+  "file": "page__our-bases_winter-base.md",
+  "chars": 1339
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/direct-booking-offer-2023/",
+  "file": "page__direct-booking-offer-2023.md",
+  "chars": 582
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/crewed-yacht-charters/",
+  "file": "page__crewed-yacht-charters.md",
+  "chars": 1847
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/services/our-flotillas/",
+  "file": "page__services_our-flotillas.md",
+  "chars": 2408
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/services/learn-to-sail-vacation/",
+  "file": "page__services_learn-to-sail-vacation.md",
+  "chars": 3390
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/private-boat-tours/",
+  "file": "page__private-boat-tours.md",
+  "chars": 1940
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/yacht-charter-prices-greece/",
+  "file": "page__yacht-charter-prices-greece.md",
+  "chars": 5042
+ },
+ {
+  "type": "page",
+  "url": "https://ionionsails.com/catamaran-charter-prices-greece/",
+  "file": "page__catamaran-charter-prices-greece.md",
+  "chars": 3092
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/dufour-460-grand-large/",
+  "file": "boat__boats_dufour-460-grand-large.md",
+  "chars": 876
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bavaria-56-cruiser/",
+  "file": "boat__boats_bavaria-56-cruiser.md",
+  "chars": 1317
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bali-4-0/",
+  "file": "boat__boats_bali-4-0.md",
+  "chars": 1186
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/beneteau-oceanis-41-1-argyroula/",
+  "file": "boat__boats_beneteau-oceanis-41-1-argyroula.md",
+  "chars": 1236
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/",
+  "file": "boat__boats_jeanneau-sun-odyssey-410-martha.md",
+  "chars": 935
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/fountaine-pajot-isla-40-rih/",
+  "file": "boat__boats_fountaine-pajot-isla-40-rih.md",
+  "chars": 1119
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/lagoon-420-idalion/",
+  "file": "boat__boats_lagoon-420-idalion.md",
+  "chars": 1016
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bavaria-c45-barbagiannis/",
+  "file": "boat__boats_bavaria-c45-barbagiannis.md",
+  "chars": 915
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/beneteau-oceanis-51-1-brand-new/",
+  "file": "boat__boats_beneteau-oceanis-51-1-brand-new.md",
+  "chars": 1004
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/lagoon-450-f-wander/",
+  "file": "boat__boats_lagoon-450-f-wander.md",
+  "chars": 1296
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/lagoon-42-nala/",
+  "file": "boat__boats_lagoon-42-nala.md",
+  "chars": 1001
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bali-4-1-new/",
+  "file": "boat__boats_bali-4-1-new.md",
+  "chars": 1062
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/lagoon-40-imeroessa/",
+  "file": "boat__boats_lagoon-40-imeroessa.md",
+  "chars": 1092
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/sun-odyssey-379/",
+  "file": "boat__boats_sun-odyssey-379.md",
+  "chars": 1194
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bavaria-c57-friends/",
+  "file": "boat__boats_bavaria-c57-friends.md",
+  "chars": 2977
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bavaria-c42-rosario/",
+  "file": "boat__boats_bavaria-c42-rosario.md",
+  "chars": 1012
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/elan-impression-45-helen/",
+  "file": "boat__boats_elan-impression-45-helen.md",
+  "chars": 598
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bali-4-3-alba/",
+  "file": "boat__boats_bali-4-3-alba.md",
+  "chars": 671
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/lagoon-42-full-moon/",
+  "file": "boat__boats_lagoon-42-full-moon.md",
+  "chars": 624
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bali-4-8-the-big-orange-boat/",
+  "file": "boat__boats_bali-4-8-the-big-orange-boat.md",
+  "chars": 2051
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/fountaine-pajot-astrea-42-inoe/",
+  "file": "boat__boats_fountaine-pajot-astrea-42-inoe.md",
+  "chars": 3219
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/jeanneau-sun-odyssey-490-kalm/",
+  "file": "boat__boats_jeanneau-sun-odyssey-490-kalm.md",
+  "chars": 590
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bali-4-1-theros/",
+  "file": "boat__boats_bali-4-1-theros.md",
+  "chars": 1202
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/dufour-390-blue-dream/",
+  "file": "boat__boats_dufour-390-blue-dream.md",
+  "chars": 900
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/dufour-412-grand-large-argo/",
+  "file": "boat__boats_dufour-412-grand-large-argo.md",
+  "chars": 666
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/lagoon-46-hydra-xv/",
+  "file": "boat__boats_lagoon-46-hydra-xv.md",
+  "chars": 640
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/horizon-leopard-43/",
+  "file": "boat__boats_horizon-leopard-43.md",
+  "chars": 3207
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/beneteau-oceanis-40-1-joy/",
+  "file": "boat__boats_beneteau-oceanis-40-1-joy.md",
+  "chars": 658
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/hanse-455-alexa/",
+  "file": "boat__boats_hanse-455-alexa.md",
+  "chars": 819
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/dufour-390/",
+  "file": "boat__boats_dufour-390.md",
+  "chars": 633
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bali-4-2-rubaiyat/",
+  "file": "boat__boats_bali-4-2-rubaiyat.md",
+  "chars": 666
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bavaria-c38-trata/",
+  "file": "boat__boats_bavaria-c38-trata.md",
+  "chars": 620
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/lagoon-52f-saga/",
+  "file": "boat__boats_lagoon-52f-saga.md",
+  "chars": 2624
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bavaria-c38/",
+  "file": "boat__boats_bavaria-c38.md",
+  "chars": 622
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bavaria-c45-lego/",
+  "file": "boat__boats_bavaria-c45-lego.md",
+  "chars": 490
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/beneteau-oceanis-51-1-jovial/",
+  "file": "boat__boats_beneteau-oceanis-51-1-jovial.md",
+  "chars": 661
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/sun-odyssey-440-aurelia/",
+  "file": "boat__boats_sun-odyssey-440-aurelia.md",
+  "chars": 621
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/bali-4-4-2026/",
+  "file": "boat__boats_bali-4-4-2026.md",
+  "chars": 744
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/leopard-45-celavie-iii/",
+  "file": "boat__boats_leopard-45-celavie-iii.md",
+  "chars": 3156
+ },
+ {
+  "type": "boat",
+  "url": "https://ionionsails.com/boats/hanse-460-simply-relax/",
+  "file": "boat__boats_hanse-460-simply-relax.md",
+  "chars": 499
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/kefalonia/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_kefalonia.md",
+  "chars": 3321
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/lefkas-sailing-itineraries/",
+  "file": "bases_destinations__attraction_lefkas-sailing-itineraries.md",
+  "chars": 8683
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas.md",
+  "chars": 1141
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/antipaxos/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_antipaxos.md",
+  "chars": 976
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/ithaca/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_ithaca.md",
+  "chars": 3355
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/kalamos/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_kalamos.md",
+  "chars": 2091
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/kastos/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_kastos.md",
+  "chars": 1264
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/lefkada/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_lefkada.md",
+  "chars": 2340
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/meganisi/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_meganisi.md",
+  "chars": 2936
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/paxoi/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_paxoi.md",
+  "chars": 2224
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/zakynthos/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_zakynthos.md",
+  "chars": 2170
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/corfu/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_corfu.md",
+  "chars": 2927
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/mainland/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_mainland.md",
+  "chars": 3110
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/suggested-itineraries-from-corfu/",
+  "file": "bases_destinations__attraction_suggested-itineraries-from-corfu.md",
+  "chars": 3125
+ },
+ {
+  "type": "bases_destinations",
+  "url": "https://ionionsails.com/attraction/sailing-from-lefkas/atokos/",
+  "file": "bases_destinations__attraction_sailing-from-lefkas_atokos.md",
+  "chars": 1187
+ },
+ {
+  "type": "post",
+  "url": "https://ionionsails.com/charter-info/flexible-payment-terms/",
+  "file": "post__charter-info_flexible-payment-terms.md",
+  "chars": 572
+ },
+ {
+  "type": "post",
+  "url": "https://ionionsails.com/charter-info/travel-insurance/",
+  "file": "post__charter-info_travel-insurance.md",
+  "chars": 4311
+ },
+ {
+  "type": "post",
+  "url": "https://ionionsails.com/charter-info/charter-party-agreement/",
+  "file": "post__charter-info_charter-party-agreement.md",
+  "chars": 457
+ },
+ {
+  "type": "post",
+  "url": "https://ionionsails.com/charter-info/chartering-extras/",
+  "file": "post__charter-info_chartering-extras.md",
+  "chars": 1426
+ },
+ {
+  "type": "post",
+  "url": "https://ionionsails.com/ionion-blog/charter-sailing-with-pets/",
+  "file": "post__ionion-blog_charter-sailing-with-pets.md",
+  "chars": 1081
+ },
+ {
+  "type": "review",
+  "url": "https://ionionsails.com/reviews/",
+  "file": "reviews.md",
+  "chars": 4020
+ }
+]
