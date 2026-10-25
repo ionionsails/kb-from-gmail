@@ -20,7 +20,7 @@ Nothing is shared with anyone yet.
 
 ## Done
 
-50 files created (search Drive: `owner = 'me' and createdTime > '2026-10-25T09:45:00Z'`):
+51 files created (search Drive: `owner = 'me' and createdTime > '2026-10-25T09:45:00Z'`):
 - 44 page Docs, "Website updates needed", "Missing information", "Review for Thalia"
 - Sheets "Fleet" (`1xAaw9n6lgAYDYscPHstdBqXWBDkwGtaR42B0PcYBlmk`) and "Decisions" (`1pPSFuuctGyOq4k6toXRZ3Y44a-CsVG9-eDTJ1dDVqaA`)
 - Session 2 (2026-10-25, 10:09 to 10:12Z) added 4 Docs, not yet read back:
@@ -28,6 +28,8 @@ Nothing is shared with anyone yet.
   "Bareboat charters" (`1C29_7k3sorAHZr1MDDTF65oIKRmPkryy8NNW2UhD3Bw`),
   "Flotillas (summer, themed, Explorer and Training)" (`1qs2j_ism2JEOAS5PighjwGfayRR6EaWUInC3X6mQOBU`),
   "360 yacht management" (`1_Obv11UBXAB2NMeC9r7kSzfXd23TJcL3amXz57otq3A`)
+- Session 2, 10:18Z: "Zea Marina (Athens, website only)" (`1C92W7w9D0P_8_mzs7i_hqehyDz_JD2oS3oGdSqkZLu4`),
+  read back: complete.
 
 Verified in session 2:
 - Fleet Sheet is A1:T51 and Decisions Sheet is A1:M46. Both match the CSVs exactly (51 x 20 and 46 x 13).
@@ -39,8 +41,8 @@ Verified in session 2:
 
 0. Upload agents were stopped mid-run. Before uploading anything, search Drive again (query above)
    and skip any title that already exists, so nothing is duplicated.
-1. Upload the 5 missing pages (files in `drive/upload/`, title and parent in `manifest.json`):
-   policies__discounts, bases__zea-marina, brokers__commission-and-invoices,
+1. Upload the 4 missing pages (files in `drive/upload/`, title and parent in `manifest.json`):
+   policies__discounts, brokers__commission-and-invoices,
    templates__option-reminder, destinations__kalamos-kastos-atokos.
 2. Upload `review_gabi.html` as "Review for Gabi" to the root folder.
 3. Verify every Doc: read it back and check it ends with the source text.
