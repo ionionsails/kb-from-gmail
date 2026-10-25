@@ -1,8 +1,8 @@
 ---
 title: Nea Peramos base (Saronic)
 type: base
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Nea Peramos base (Saronic)
 
@@ -12,10 +12,15 @@ Our newer base in Attica, 45 minutes from Athens International Airport. Brand Sa
 
 | Item | Value | Applies to | Season | Source |
 | --- | --- | --- | --- | --- |
-| Role | Newer base, smaller fleet than Lefkas. Used for the Saronic Islands | Nea Peramos | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879777877397141371) |
+| Role | Newer base, smaller fleet than Lefkas. Used for the Saronic Islands | Nea Peramos | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879777877397141371); [website](https://ionionsails.com/why-choose-us/) (Athens base and Saronic Sails described as new) |
 | Why Nea Peramos | Chosen over Alimos to avoid crowding and queues, and closer to the Saronic Islands | Nea Peramos | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-8286601876971341639) |
 | Address and office hours | not found – please confirm | Nea Peramos | | |
 | Airport | Athens International, about 45 minutes | Nea Peramos | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879777877397141371) |
+| Airport and Athens (website) | Directly connected to Athens International Airport and to the centre of Athens. The winter base page (same shipyard town) says 30 minutes from El. Venizelos by car or suburban railway, 35 km from the centre. Emails say about 45 minutes | Nea Peramos | website 2026-10 | [website](https://ionionsails.com/our-bases/athens-charter-bases/), [winter base](https://ionionsails.com/our-bases/winter-base/) |
+| Access and one-way (website) | Access to the Saronic Gulf, one-way charters from and to Lefkada. Matches the October one-way rows below | Nea Peramos | website 2026-10 | [website](https://ionionsails.com/our-bases/athens-charter-bases/) |
+| Base services (website) | One way chartering, free berth, maintenance and repairs, mooring lines, transfer, free water supply, dock fuel service. Repairs and maintenance are done in the base facilities | Nea Peramos | website 2026-10 | [website](https://ionionsails.com/our-bases/athens-charter-bases/) |
+| Winter drydock | Exclusive winter base and drydock at the Nea Peramos Shipyard. See [Winter base](winter-base.md) | Nea Peramos | Oct to Apr | [website](https://ionionsails.com/our-bases/winter-base/) |
+| Other Athens base | The website also lists Zea Marina (Piraeus). See [Zea Marina](zea-marina.md). Emails say we have two in-house bases only | Athens | website 2026-10 | [website](https://ionionsails.com/our-bases/athens-charter-bases/) |
 | Train | Complimentary high-speed train. Tickets are issued once we have the passenger details. Other transfer details on [Transfers](../policies/transfers.md) | Nea Peramos | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879777877397141371) |
 | Waiting to board | Yacht club with SUPs for guests waiting to board | Nea Peramos | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879777877397141371) |
 | Base brochure | Saronic Sails Base Info 2026, sent to Saronic brokers | Nea Peramos | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-8286601876971341639) |
@@ -72,6 +77,8 @@ Yacht in the other base:
 - [D-028](../decisions/open.md#d-028) 2026 season end and 2027 opening.
 - [D-032](../decisions/open.md#d-032) Boat identity, base and bareboat availability (the Nautitech 44 Seabird was placed at Nea Peramos and at Lefkas in different emails).
 - [D-024](../decisions/open.md#d-024) Check-in and return times.
+- Website vs emails: Nea Peramos to airport. Emails say about 45 minutes, the website winter base page says 30 minutes by car or suburban railway ([D-044](../decisions/open.md#d-044))
+- Website vs emails: number of bases. Website lists Zea Marina, Corfu and Preveza as bases, emails say we have two in-house bases (Lefkas and Nea Peramos) and none in Corfu ([D-043](../decisions/open.md#d-043))
 - [D-030](../decisions/open.md#d-030) Transfers and train.
 - [D-035](../decisions/open.md#d-035) RYA course dates and location.
 

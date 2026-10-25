@@ -1,8 +1,8 @@
 ---
 title: Transfers and train to Nea Peramos
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Transfers and train to Nea Peramos
 
@@ -45,6 +45,7 @@ We do not run our own shuttle. Lefkas transfers are booked through an external p
 | --- | --- | --- |
 | Car rental near the harbour | Green Motion (Lefkada downtown), Lefkas on Wheels (lefkasonwheels.gr, also WhatsApp). One-way rental depends on the company | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875655214356204562) |
 | From Athens | Car rental, flight to Preveza, KTEL bus, or private transfer | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879550655134372292) |
+| Getting to Lefkas (website) | By car from Athens, by ferry via Igoumenitsa, or by plane via Corfu, Kefalonia or Preveza (Preveza Aktion PVK is about 20 minutes by car). Lefkas is connected to the mainland by a bridge. A transfer service is listed among the base services, no price given | [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
 
 ### Nea Peramos base: free train tickets
 

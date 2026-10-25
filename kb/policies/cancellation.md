@@ -1,8 +1,8 @@
 ---
 title: Cancellation, date changes and rebooking
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Cancellation, date changes and rebooking
 
@@ -23,6 +23,8 @@ Cancelling 120 days or more before embarkation: the advance payment is refunded 
 | Skippered-only yacht booked as bareboat | No refund | brokers | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876878712966664615) |
 | Force majeure (war, airport closures) | Case by case. See [D-037](../decisions/open.md#d-037). | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878840524203439764) |
 | "FREE Cancellation" in offers | Offers say it is available for a limited time. Exact conditions: not found – please confirm | offers 2027 | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879378660738673831) |
+| Free cancellation policy (website) | Each case is assessed individually, based on the guest's requirements. The aim is to find the most suitable alternative dates among available monohulls and catamarans. No fixed refund percentages. Refers to the General Terms | direct clients | website 2026-10 | [website](https://ionionsails.com/charter-info/travel-insurance/) |
+| Travel cancellation insurance | Recommended to cover the charter fee. Details and partner: [deposit-insurance.md](deposit-insurance.md) | all | website 2026-10 | [website](https://ionionsails.com/charter-info/travel-insurance/) |
 
 Payment dates are on [payment.md](payment.md).
 
@@ -54,6 +56,7 @@ Client asks to change the charter party:
 
 - [D-037](../decisions/open.md#d-037) War and airspace closure: rebooking
 - "FREE Cancellation" wording in offers: not found – please confirm whether it is the same as the 120-day rule
+- Website vs emails: the website describes a "free yacht cancellation policy" with case-by-case alternative dates and no refund percentages. Emails give the 120-day rule with credit under 120 days ([D-040](../decisions/open.md#d-040)). The website page may be older wording
 
 ## Examples
 

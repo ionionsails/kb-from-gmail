@@ -1,8 +1,8 @@
 ---
 title: Crew: skipper, hostess, cook and APA
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Crew: skipper, hostess, cook and APA
 
@@ -22,8 +22,10 @@ Crew fees are per week, excl. provisioning, paid in cash on arrival. The 2027 sk
 | Hostess | 1,330 | 2,660 | crewed yachts | Excl. provisioning |
 | Cook | 1,610 | 3,220 | crewed yachts | Excl. VAT and provisioning |
 | Babysitter | 1,200 | not found – please confirm | crewed yachts | Excl. provisioning |
+| Skipper (website) | 200 per day (7 days: 1,400) | n/a | website pages | Same as the 2026 season fee. Paid at check-in, in addition to the charter price. The site says we usually follow the national rate |
+| Hostess (website) | 180 per day (7 days: 1,260) | n/a | website pages | Paid at check-in, in addition to the charter price |
 
-Sources: [2027 offers](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876749642158642025), [price list](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874984826294027071), [compulsory skipper](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r3103702804861126373), [2026 season](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r2016699508300997895). Fee conflicts: D-025.
+Sources: [2027 offers](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876749642158642025), [price list](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874984826294027071), [compulsory skipper](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r3103702804861126373), [2026 season](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r2016699508300997895). Website: [charter extras](https://ionionsails.com/charter-info/chartering-extras/), [skippered charters](https://ionionsails.com/services/skippered-charters/). Fee conflicts: D-025.
 
 ### Skipper
 
@@ -41,6 +43,7 @@ Sources: [2027 offers](https://mail.google.com/mail/?authuser=info@ionionsails.c
 | Return time | Back at base Friday by 16:00. Guests may stay on board until Saturday 09:00 | same thread |
 | Full-week supporting skipper | Possible, the client stays in command. Cost on request, not found – please confirm | not stated |
 | Gratuity | Optional. Quoted as 5-10% in one reply and 10-15% in others, see D-026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875382420492710324) |
+| Skippers, profile (website) | Many years with the company, mainly 35 to 45 years old, several languages, sailing in Greece since childhood. Trained on all boat types, good instructors, can act as land and sea guide. Itineraries recommended or tailor-made. Marketed as "the best in Lefkas" | [website](https://ionionsails.com/services/skippered-charters/) |
 
 ### Hostess and cook
 
@@ -53,6 +56,7 @@ Sources: [2027 offers](https://mail.google.com/mail/?authuser=info@ionionsails.c
 | Bavaria C57 | No hostess with 7 guests (no sleeping place) | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877833138389166730) |
 | Aura 51 hostess | EUR 1,330. A price difference with the owner-side hostess was asked and not answered. Not found – please confirm | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-1896532375778654453) |
 | Two crewed yachts together | 5% discount offered once (2026-10-01). See [Discounts](discounts.md) | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877833138389166730) |
+| Hostess or cook (website) | Can be requested on skippered charters. Described as great for families and groups of friends | [website](https://ionionsails.com/services/skippered-charters/) |
 
 ### APA and payment
 
@@ -118,6 +122,7 @@ APA (crewed catamarans):
 - [D-018](../decisions/open.md#d-018) Deposit and Damage Waiver with a skipper on board.
 - [D-019](../decisions/open.md#d-019) Crewed yachts: deposit and Damage Waiver.
 - Not yet in decisions/open.md, please add: delivery skippers, EUR 850 per skipper or for both.
+- Website vs emails: the website shows skipper EUR 200 per day and hostess EUR 180 per day. Emails show skipper 1,470 per week (2027 offers, 1,400 in 2026) and hostess 1,330 per week. The website skipper rate equals the 2026 fee, so it is probably outdated for 2027 (see [D-025](../decisions/open.md#d-025))
 
 ## Examples
 

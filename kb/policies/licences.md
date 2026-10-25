@@ -1,8 +1,8 @@
 ---
 title: Licences and RYA courses
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Licences and RYA courses
 
@@ -16,6 +16,7 @@ On a bareboat charter one person on board must hold a valid sailing licence that
 | --- | --- | --- | --- | --- |
 | Offer wording | Every bareboat offer says "Skipper licence required" | Bareboat | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878245968461856517) |
 | Who needs a licence | One person only, the designated skipper. A second experienced person is an advantage | Bareboat | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878245968461856517) |
+| Crew requirement (website) | Two experienced crew members. The skipper holds an appropriate sailing certificate or official offshore sailing licence. The co-skipper should have some sailing experience. The harbour authority may ask for official declarations of the skipper's competence and the co-skipper's experience. Clients without enough qualifications can ask for our skipper | Bareboat | website 2026-10 | [website](https://ionionsails.com/services/bareboat-charters/) |
 | ICC | Accepted if valid for Coastal Waters. ICC for Inland Waters only is not accepted | Bareboat | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877511717097818098) |
 | Motor-only licences | Not valid for a sailing yacht or sailing catamaran, even if the catamaran is used under motor. This includes D5 powerboat certificates | Bareboat | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876034294497151790) |
 | Unclear sailing category (for example Romanian ICMS) | Ask for confirmation that it covers sailing craft and is valid in our area | Bareboat | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874771922982268960) |
@@ -27,7 +28,7 @@ On a bareboat charter one person on board must hold a valid sailing licence that
 | Licence copy | 7 days before arrival. A link to a website is not enough. We need a photo or PDF of the full licence with the photograph | Bareboat | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876571031318957080) |
 | Crew list | Passport numbers are mandatory. Deadline: see [Check-in](check-in.md) | Bareboat | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876878712966664615) |
 | With our skipper | Guest licence not needed. Our skipper handles the yacht | Skippered | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-5519752718889369481) |
-| No valid licence | Offer a skipper from our team. Fee on [Crew](crew.md) | Bareboat | 2026 | |
+| No valid licence | Offer a skipper from our team. Fee on [Crew](crew.md) | Bareboat | 2026 |; [website](https://ionionsails.com/services/bareboat-charters/) |
 | Lefkas to Athens passage | Only our own professional skippers, or guests whose sailing ability we know | One-way | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337) |
 | Skipper cabin and meals | Forward cabin, or a free guest cabin. Extra portion on board, or about EUR 20 to 30 per day ashore | Skippered | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8589824299572312638) |
 
@@ -78,6 +79,7 @@ Licence copy timing:
 - [D-035](../decisions/open.md#d-035) RYA courses: price, location, dates, instructor. Day Skipper was quoted at 1,050 and once at 1,150. Emails place all courses at Nea Peramos, but one Coastal Skipper was offered in Lefkada (25 Oct to 1 Nov). The 2027 restart is given as March, end of April, 25 April and late April. The instructor price is once excl. meals and once excl. VAT and food.
 - [D-008](../decisions/open.md#d-008) Licence copy (7 days) and crew list (2 weeks or more) deadlines.
 - [D-025](../decisions/open.md#d-025) Skipper fee.
+- Website vs emails: the website says a bareboat charter needs two experienced crew members. Emails say only one person needs the licence and a second experienced person is an advantage ([D-041](../decisions/open.md#d-041))
 
 ## Examples
 

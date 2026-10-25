@@ -1,8 +1,8 @@
 ---
 title: Lefkas base (Ionian)
 type: base
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Lefkas base (Ionian)
 
@@ -12,11 +12,11 @@ Our main and older base, in the Port of Lefkas, with two private pontoons and of
 
 | Item | Value | Applies to | Season | Source |
 | --- | --- | --- | --- | --- |
-| Location | Port of Lefkas (National Port of Lefkada). Broker lists show "Lefkada City Port, private pier of Ionion Sails" | Lefkas | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877094517034254436) |
+| Location | Port of Lefkas (National Port of Lefkada). Broker lists show "Lefkada City Port, private pier of Ionion Sails" | Lefkas | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877094517034254436); [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
 | Docks | No dock numbers. Delivery name: "IonionSails Private Docks – Port of Lefkas". The port may also be called Lefkas Public Marina. Exact spot is in the Base Info 2026 brochure | Lefkas | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877094517034254436) |
 | Office | Petrou Filippou Papagou 18, Lefkada. Opens 09:00. Closing hours: not found – please confirm | Lefkas | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879568728942599227) |
 | Check-in partner | One reply named GR Sailing as the check-in partner office at the base | Lefkas | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874028524982171688) |
-| Airport | Preveza/Aktion (PVK), about 30 to 40 minutes by car. Lefkada is reached over the bridge | Lefkas | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879212509309108115) |
+| Airport | Preveza/Aktion (PVK), about 30 to 40 minutes by car. Lefkada is reached over the bridge | Lefkas | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879212509309108115); bridge: [website](https://ionionsails.com/attraction/lefkas-sailing-itineraries/) |
 | From Athens | About 3.5 to 4 hours by road. Bus or private transfer. Details on [Transfers](../policies/transfers.md) | Lefkas | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879212509309108115) |
 | Hotels nearby | Ionion Star, Secret Boutique Hotel, Lefkas Hotel | Lefkas | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874028524982171688) |
 | Laundry | A laundry store only. Same-day return is not certain | Lefkas | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874028524982171688) |
@@ -30,6 +30,17 @@ Our main and older base, in the Port of Lefkas, with two private pontoons and of
 | Corfu | We have no base there. Start in Corfu is not offered (8 to 10 hours of sailing). Guests can start in Lefkada and sail north, or take the ferry to Igoumenitsa and drive (3 to 3.5 hours) | Lefkas | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1861891317355617528) |
 | Ferries | Vasiliki to Fiskardo about 1 h to 1 h 10 min (Vasiliki is 40 to 50 minutes from the base). Lefkada Town to Sami about 3.5 hours | Lefkas | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1861891317355617528) |
 | Day cruises | 09:00 to 18:00, arrive about 09:45 to pass the bridge, capacity 9. Booked to the end of 2026. Prices: see D-034 | Lefkas | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-5759704592027916002) |
+| Mooring spot (website) | Lefkas Main Port, next to the city centre. The itineraries page also says "Lefkas Marina" and that Lefkas National Port is 100 m from the charter base. Site says it has more amenities than a classic Greek harbour | Lefkas | website 2026-10 | [website](https://ionionsails.com/our-bases/lefkas-main-base/), [itineraries](https://ionionsails.com/attraction/lefkas-sailing-itineraries/) |
+| Berth services (website) | Dock refuel by truck, mobile workshop in front of the berths, mooring lines, harbour master and crew, free provisioning and water supply, free berth. Base services listed: all types of chartering, dock crew, maintenance and repairs, transfer, laundry and cleaning | Lefkas | website 2026-10 | [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
+| Office (website) | 4 minute walk from the mooring and 1 km from Lefkada centre, with cafes, taverns, shops and free parking. Services listed: all types of chartering, free provisioning, transfer, laundry and cleaning, infodesk | Lefkas | website 2026-10 | [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
+| Office address (website) | Petrou Filippou Panagou 18, Lefkas 311 00. Emails spell the street "Papagou". Phone, email and WhatsApp: [About us](../company/about.md) | Lefkas | website 2026-10 | [website](https://ionionsails.com/contact/) |
+| Airport (website) | Aktion (PVK) is 20 minutes by car. The site also names Corfu and Kefalonia airports, car from Athens, and ferry via Igoumenitsa | Lefkas | website 2026-10 | [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
+| Last day return | Boats back at Lefkas Harbour before 16:00. This matches the Friday return on [Check-in](../policies/check-in.md) | Lefkas | website 2026-10 | [website](https://ionionsails.com/attraction/lefkas-sailing-itineraries/) |
+| Where the yachts are | Most Ionion Sails sailing yachts and catamarans are based at Lefkada | Lefkas | website 2026-10 | [website](https://ionionsails.com/attraction/sailing-from-lefkas/lefkada/) |
+| Laundry (website) | "Laundry/Cleaning" listed as a base service. Emails say a laundry store only | Lefkas | website 2026-10 | [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
+| Free berth and water (website) | "Free berth" and "free water supply" listed among base services. Emails: visiting boats pay EUR 35 per day for electricity and water. Client type may differ (charter yachts or visiting boats) | Lefkas | website 2026-10 | [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
+| Corfu (website) | The site lists a Corfu base at Gouvia Marina: see [Corfu base](corfu.md). Emails say we have no base there (row above) | Lefkas | website 2026-10 | [website](https://ionionsails.com/our-bases/other-ionian-bases/) |
+| Sailing area, routes and distances | Islands and routes from Lefkas: see [Destinations](../destinations/overview.md) | Lefkas | 2026 | |
 
 ### Season dates
 
@@ -76,6 +87,11 @@ Season end and 2027:
 - [D-030](../decisions/open.md#d-030) Transfers and provisioning.
 - [D-034](../decisions/open.md#d-034) Day cruises.
 - [D-024](../decisions/open.md#d-024) Check-in and return times.
+- Website vs emails: Corfu. The website lists a Corfu base (Gouvia Marina), emails say we have no base in Corfu and a start there is not offered ([D-043](../decisions/open.md#d-043))
+- Website vs emails: airport distance. Website says Aktion is 20 minutes by car, emails say about 30 to 40 minutes ([D-044](../decisions/open.md#d-044))
+- Website vs emails: office street name. Website "Panagou", emails "Papagou" ([D-044](../decisions/open.md#d-044))
+- Website vs emails: laundry. Website lists laundry and cleaning as a base service, emails say a laundry store only and same-day return is not certain ([D-044](../decisions/open.md#d-044))
+- Website vs emails: free berth and water. Website lists them as base services, emails charge visiting boats EUR 35 per day for electricity and water ([D-044](../decisions/open.md#d-044))
 
 ## Examples
 
@@ -86,6 +102,9 @@ Season end and 2027:
 ## Related
 
 - [Nea Peramos base](nea-peramos.md)
+- [Corfu base](corfu.md), [Preveza base](preveza.md), [Athens: Zea Marina](zea-marina.md), [Winter base](winter-base.md)
+- [Destinations](../destinations/overview.md)
+- [About us](../company/about.md)
 - [Check-in](../policies/check-in.md)
 - [Transfers](../policies/transfers.md)
 - [Fleet](../fleet/fleet.md)

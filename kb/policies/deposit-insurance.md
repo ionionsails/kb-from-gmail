@@ -1,8 +1,8 @@
 ---
 title: Security deposit and damage waiver
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Security deposit and damage waiver
 
@@ -16,14 +16,14 @@ Per-boat amounts are also on the boat pages, see [Fleet](../fleet/fleet.md). The
 
 | Item | Option A: own insurance | Option B: Damage Waiver | Applies to | Source |
 | --- | --- | --- | --- | --- |
-| What it is | Deposit insured with an independent insurer | Damage Waiver bought through Yachtpool | Bareboat charters | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r6687077659634441532) |
+| What it is | Deposit insured with an independent insurer | Damage Waiver bought through Yachtpool | Bareboat charters | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r6687077659634441532); [website](https://ionionsails.com/services/bareboat-charters/) |
 | When | Insurance completed BEFORE arrival (must be valid until embarkation date) | On arrival, at check-in in our office | All bases | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879746279623706734) |
 | Card hold | Full standard deposit, pre-authorised on a card | 1,000 EUR refundable, pre-authorised on a crew member's card | Bareboat | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877829426615933761) |
 | Fee | None from us (the client pays the insurer) | Non-refundable fee, depends on the boat (table below) | Bareboat | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8085554789230008228) |
 | Insurance must cover | The entire deposit amount | n/a | Option A | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879746279623706734) |
 | Full standard deposit also required? | Yes, held on card | No. The Damage Waiver replaces it | Both | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879101685756653669) |
 | Maximum liability | The deposit amount | Fee + 1,000 EUR (e.g. 1,400 EUR on 41-44 ft catamarans) | Both | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877856555331909613) |
-| Insure the refundable 1,000 EUR | n/a | Possible on the spot for an extra fee. Amount: see [D-016](../decisions/open.md#d-016) | Option B | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8085554789230008228) |
+| Insure the refundable 1,000 EUR | n/a | Possible on the spot for an extra fee. Amount: see [D-016](../decisions/open.md#d-016) | Option B | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8085554789230008228); [website](https://ionionsails.com/services/bareboat-charters/) |
 | Not covered by the Damage Waiver | n/a | Blocked toilets, gross negligence | Option B | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874880495186903716) |
 
 The offer can show both a full deposit line and a Damage Waiver line. They are alternatives, not cumulative. The reduced line says: valid ONLY for insured skippers OR mandatory damage waiver.
@@ -64,6 +64,7 @@ Boats outside our fleet (partner boats) follow the partner's deposit terms. We c
 | Damage Waiver | Not needed. Wording differs between emails, see [D-018](../decisions/open.md#d-018) | Our skipper on board | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r2016699508300997895) |
 | Client named as main skipper | Full deposit applies | Even with our skipper aboard | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-5519752718889369481) |
 | Guest responsibility | Guests stay responsible for interior, equipment and items lost or damaged by guests | Skippered charters | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r2016699508300997895) |
+| Non-refundable deposit insurance (website) | The skippered charter page says yachts are insured for damage beyond the deposit and a non-refundable deposit insurance is offered through a partner | Skippered charters | [website](https://ionionsails.com/services/skippered-charters/) |
 
 ### Crewed yachts
 
@@ -91,6 +92,7 @@ Deposit is included in the price on the crewed Bali 4.8, Lagoon 52F and Saga. On
 | Paid by transfer or cash | Returned by bank transfer, bank slip sent | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879377320298630293) |
 | Deductions | Damage costs can be deducted. Unused fuel is invoiced separately | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877094517034254436) |
 | Negotiable? | No. The amount is set by the insurance company | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-3404848639629302466) |
+| Return time (website) | If all charter party terms are met, the refundable deposit is returned immediately after the charter | [website](https://ionionsails.com/services/bareboat-charters/) |
 
 ### Documents and other insurance
 
@@ -102,8 +104,21 @@ Deposit is included in the price on the crewed Bali 4.8, Lagoon 52F and Saga. On
 | Damage Waiver terms | Send the terms and conditions PDF on request | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874880495186903716) |
 | Bareboat T&C | Yachts are insured for the risks in the T&C. Liability is limited to the deposit, except gross negligence or wilful misconduct. Independent skipper insurance is recommended | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877790990168600621) |
 | Travel insurance | Optional, at the client's discretion. Our only requirement is the deposit | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879222288142916980) |
+| Travel insurance (website) | Recommended on the website. Travel Cancellation Insurance pays a full or partial refund of the charter fee if the skipper or a crew member cannot embark due to unexpected events, including trip curtailment | [website](https://ionionsails.com/charter-info/travel-insurance/) |
 
 Charter fee payment: see [payment](payment.md). Cleaning and other extras: see [extras](extras.md).
+
+### Security deposit and insurers, as published on the website
+
+| Item | Value | Applies to | Source |
+| --- | --- | --- | --- |
+| Deposit | Stated from the first email offer. Paid before embarkation or at check-in. Varies by yacht size and type. Limits the client's liability to that amount. Every yacht is insured for damage beyond the deposit. No fixed amounts on the website pages | Bareboat | [website](https://ionionsails.com/services/bareboat-charters/) |
+| Option A | Full deposit cover from an independent insurer (Yachtpool, Hamburg or any other) before arrival. The refundable deposit based on the yacht specification is normally still held on the spot | Bareboat | [website](https://ionionsails.com/services/bareboat-charters/) |
+| Option B | Without independent insurance, the only option is the Damage Waiver through YachtPool: a non-refundable fee plus a refundable deposit | Bareboat | [website](https://ionionsails.com/services/bareboat-charters/) |
+| Recommended insurers | Yachtpool, Hamburg, FAIRWINDS.blue. Partner: Hamburger Schomacker | All | [website](https://ionionsails.com/charter-info/travel-insurance/) |
+| Products | Travel Cancellation Insurance, Charter Deposit Insurance, Skipper Liability (gross negligence, crew liability, charter loss), Passenger Insurance (injury, dinghy use, emergency transport, medical return) | All | [website](https://ionionsails.com/charter-info/travel-insurance/) |
+| Yacht insurance | All yachts are insured for damage with Yachtpool | All | [website](https://ionionsails.com/charter-info/travel-insurance/) |
+| Claims at check-out | Our staff help prepare insurance claim documents at check-out and can provide a diver video and report of the underwater inspection if needed | All | [website](https://ionionsails.com/charter-info/travel-insurance/) |
 
 ### More facts from complaint and other threads
 
@@ -156,6 +171,8 @@ Release:
 - [D-019](../decisions/open.md#d-019) Crewed yachts: deposit and Damage Waiver
 - [D-020](../decisions/open.md#d-020) Own insurance (Option A): insurers, amount held, documents
 - [D-021](../decisions/open.md#d-021) Paying the deposit and Damage Waiver, and release time
+- Website vs emails: the website says the refundable deposit is returned immediately after the charter. Emails say it is released after return and checks and takes 5 to 10 working days to show on the card (probably the same process described differently, see [D-021](../decisions/open.md#d-021))
+- Website vs emails: the skippered page offers non-refundable deposit insurance through a partner. Emails say the Damage Waiver is not needed with our skipper (see [D-018](../decisions/open.md#d-018))
 
 ## Examples
 

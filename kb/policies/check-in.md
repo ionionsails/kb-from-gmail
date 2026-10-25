@@ -1,8 +1,8 @@
 ---
 title: Check-in, check-out and documents before arrival
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Check-in, check-out and documents before arrival
 
@@ -17,8 +17,11 @@ Charters run Saturday to Saturday. Boarding is on Saturday by 17:00 at the lates
 | Two-week charters | Possible, quoted as two standard weeks | All | 2027 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879195888776556977) |
 | Fully booked week | No alternative period is offered. We prepare an offer for another yacht | All | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876036400917390197) |
 | Embarkation | Saturday, latest 17:00. Earlier if the yacht is ready, not guaranteed | Lefkas | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8589824299572312638) |
-| Early check-in | Board by 14:00 at the latest, EUR 170. Limited availability | All bases | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875295846034158031) |
+| Early check-in | Board by 14:00 at the latest, EUR 170. Limited availability | All bases | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875295846034158031); [website](https://ionionsails.com/charter-info/chartering-extras/) |
 | Early check-in with a pet | Free for pets up to 10 kg, unless the yacht needs repairs after the previous charter | Direct clients | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875295846034158031) |
+| Early check-in with a pet (website) | Pet owners always get early check-in. No weight limit stated. See [options.md](options.md) | Direct clients | website 2026-10 | [website](https://ionionsails.com/ionion-blog/charter-sailing-with-pets/) |
+| Private piers and fast check-in (website) | All yachts operate from privately owned piers, the fleet moored together in one place, for fast check-in and check-out. A standard check-in time is not stated on the website, only early check-in before 14:00 as a paid extra | All | website 2026-10 | [website](https://ionionsails.com/why-choose-us/) |
+| E-checkin (website) | Guests can learn about the yacht before boarding. New photos each year and videos updated. At check-out the team keeps a photo and video record of the yacht's condition | All | website 2026-10 | [website](https://ionionsails.com/why-choose-us/) |
 | Office appointment | Set from the guest's estimated arrival time. Paperwork first, boarding when the yacht is ready (and the skipper has arrived on skippered charters) | All | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876304044749783487) |
 | Luggage | Can wait in the office luggage room | Lefkas | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876304044749783487) |
 | Same-day departure | Possible after check-in if the weather is suitable, the previous charter returned without issues and, on skippered charters, the skipper agrees. On the first day guests may leave the port and start the trip | All | 2026 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877511717097818098) |
@@ -81,6 +84,8 @@ Non-standard dates:
 - [D-008](../decisions/open.md#d-008) Crew list and guest details deadline.
 - [D-024](../decisions/open.md#d-024) Check-in, early check-in, return time and pets. Emails differ on the Friday return (16:00 in most answers and offers, 17:00 in a few replies and for Nea Peramos partner boats) and one Saronic broker booking was confirmed with check-in at 18:00.
 - [D-030](../decisions/open.md#d-030) What we send before arrival (transfers, provisioning).
+- Website vs emails: the website says pet owners always get early check-in. Emails say it is free for pets up to 10 kg, unless the yacht needs repairs (see [D-024](../decisions/open.md#d-024))
+- Website vs emails: the website says flexible dates and a 10-day trip are possible. Emails say Saturday to Saturday only. See [options.md](options.md) ([D-042](../decisions/open.md#d-042))
 
 ## Examples
 

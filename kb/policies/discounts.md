@@ -1,8 +1,8 @@
 ---
 title: Discounts and offer prices
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Discounts and offer prices
 
@@ -38,6 +38,9 @@ Further steps and ranges:
 | Shorter stay | Does not reduce the price | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874596487942956428) |
 | 2028 prices | Not available yet | all | 2028 | not found – please confirm |
 | Launch of 2027 early booking | Question unanswered in our emails. Not found – please confirm | all | 2027 | not found – please confirm |
+| Direct booking offer 2023 (website, likely outdated) | Up to 45% off regular prices on selected boats through August, plus free WiFi throughout the holiday, when booking direct. Last minute offer ("be sailing next week"). Tied to 2023, do not use | direct | 2023 (website) | [website](https://ionionsails.com/direct-booking-offer-2023/) |
+| Club discounts (website) | Tailored packages for sailing clubs and members: special conditions, club-specific discounts, flexible payment terms. Past collaborations: RSM University Flotilla, SnS Event, ViaMaris Flotilla, Yam Sailing Flotilla. No percentage given | sailing clubs and members | website 2026-10 | [website](https://ionionsails.com/why-choose-us/) |
+| List prices and general price levels | See [prices.md](prices.md) | all | website 2026-10 | [website](https://ionionsails.com/yacht-charter-prices-greece/) |
 
 Extra discounts and free extras:
 
@@ -84,6 +87,7 @@ Do not promise a free outboard or SUP before the team agrees ([D-014](../decisio
 - [D-014](../decisions/open.md#d-014) Free extras and extra discounts
 - [D-015](../decisions/open.md#d-015) 2027 prices: same boat and week quoted differently
 - [D-011](../decisions/open.md#d-011) Broker commission rate
+- Website vs emails: the 2023 direct booking offer promises free WiFi and up to 45% off. Emails: Wi-Fi is not given free ([extras.md](extras.md)) and no such offer is current. The page is probably outdated ([D-014](../decisions/open.md#d-014))
 
 ## Examples
 
@@ -94,6 +98,7 @@ Do not promise a free outboard or SUP before the team agrees ([D-014](../decisio
 ## Related
 
 - [Extras](extras.md)
+- [Prices](prices.md)
 - [Payment](payment.md)
 - [Commission and invoices](../brokers/commission-and-invoices.md)
 - [Our offer (template)](../templates/our-offer.md)

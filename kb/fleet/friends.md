@@ -1,8 +1,8 @@
 ---
 title: Friends (Bavaria C57)
 type: boat
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Friends (Bavaria C57)
 
@@ -21,10 +21,21 @@ Friends: Bavaria C57, 2023, based in Lefkada. Skippered only.
 | Base | Lefkada | this boat | 2026 and 2027 offers | [base page](../bases/lefkas.md) |
 | Charter type | Skippered only, never bareboat | this boat | all | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337) |
 | Equipment | A/C in every cabin and saloon, generator, bowthruster, hydraulic gangway, electric winch, TV, Wi-Fi, dishwasher, flexible start day | this boat | all | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337) |
-| Security deposit | 1,500 EUR | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337) |
+| Security deposit | 1,500 EUR | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337) · [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
 | Damage Waiver | not found – please confirm | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337) |
-| End cleaning | 470 EUR | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337) |
+| End cleaning | 470 EUR | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337) · [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
 | Weekly prices | not kept on boat pages. See [Discounts](../policies/discounts.md). | this boat | 2027 | - |
+| Skipper fee (obligatory) | 1,500 EUR ex VAT and provisioning, same as the Crew page | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Seabob (optional) | 180 EUR per week (not on the Extras page yet) | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Year of build | 2023 | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Length | 16.16 m (about 53 ft, matches the 53 ft in emails, not the 57 ft on a cleaner's list) | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Draft (min) | 2.50 m | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Berths | 10 | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| WC / showers | 3 (2 + 1) | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Cabins | 1 master, 2 double, 1 bunk bed, 1 crew | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Engine | 110 HP Yanmar | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Fuel / water | 500 l / 650 l | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
+| Amenities | TV, speakers, USB in every cabin, Wi-Fi, 2 SUPs, sun beds, bowthruster, 2 wheels and 2 rudders, cockpit GPS plotter, Imray maps, interior and exterior fridges, full teak deck, hydraulic gangway, swimming platform, bimini and sprayhood, GRP tender, A/C in every cabin and saloon, convertible table, electric toilets, electric winch, roller genoa and furling mainsail, generator 220 V | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c57-friends/) |
 
 Selling points and cautions:
 
@@ -33,6 +44,8 @@ Selling points and cautions:
 - Two dedicated skippers handle her. The crew profile is shared no later than one week before the charter. No direct skipper contact in advance, because crew may change.
 - No hostess with 7 guests (no suitable sleeping place).
 - Skipper fee 1,500 EUR ex provisioning (see the Crew page, [D-025](../decisions/open.md#d-025)).
+- Website: Luxury yacht with modern amenities, crewed by experienced crew
+- Website: Page lists premium services: concierge, transport, private chef on request, personalised itineraries, water sports, aqua pilates and yoga
 
 ## How we answer
 
@@ -48,6 +61,7 @@ Friends is a Bavaria C57 from 2023, based in Lefkada. She has 5 cabins (master +
 - [Skippered only, Aug 2026](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874486601547154337)
 - [Offer for Jul 2027](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-3077744432712828925)
 - [Length and WC, Sep 2026](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-6895413149616919432)
+- [Website page](https://ionionsails.com/boats/bavaria-c57-friends/)
 
 ## Related
 

@@ -1,8 +1,8 @@
 ---
 title: Trata (Bavaria C38)
 type: boat
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Trata (Bavaria C38)
 
@@ -21,15 +21,18 @@ Trata: Bavaria C38, 2025 (built Oct 2024), based in Lefkada. Bareboat, skipper o
 | Base | Lefkada | this boat | 2026 and 2027 offers | [base page](../bases/lefkas.md) |
 | Charter type | Bareboat (skipper licence required); skipper optional | this boat | all | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874268433130066022) |
 | Equipment | bowthruster, solar, A/C in the saloon, full batten mainsail, self-tacking jib, steady gangway, teak cockpit | this boat | all | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874268433130066022) |
-| Security deposit | not found – please confirm | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874268433130066022) |
+| Security deposit | 3,000 EUR (website only, not seen in emails) | this boat | 2026-2027 offers | [website](https://ionionsails.com/boats/bavaria-c38-trata/) |
 | Damage Waiver | not found – please confirm | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874268433130066022) |
-| End cleaning | not found – please confirm | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874268433130066022) |
+| End cleaning | 220 EUR (website only, not seen in emails) | this boat | 2026-2027 offers | [website](https://ionionsails.com/boats/bavaria-c38-trata/) |
 | Crew | Skipper optional. Fees: see [Crew](../policies/crew.md). | this boat | 2027 | [Crew](../policies/crew.md) |
 | Weekly prices | not kept on boat pages. See [Discounts](../policies/discounts.md). | this boat | 2027 | - |
+| Outboard (optional) | 90 EUR per week (website gives no period) | this boat | 2026-2027 | [website](https://ionionsails.com/boats/bavaria-c38-trata/) · [Extras](../policies/extras.md) |
+| Skipper (website, optional) | 200 EUR per day + meals | this boat | website 2026-10 | [website](https://ionionsails.com/boats/bavaria-c38-trata/) |
 
 Selling points and cautions:
 
 - Identical twin of [Alfonso](alfonso.md). We have no 32 ft boat, so the C38 is the suggested alternative.
+- Website: 3 cabins, 2 bathrooms, space for 8 people
 
 ## How we answer
 
@@ -38,12 +41,14 @@ Trata is a Bavaria C38 from 2025 (built Oct 2024), based in Lefkada. She has 3 d
 ## Open questions
 
 - [D-031](../decisions/open.md#d-031) (8 vs 7 berths)
+- Website vs emails: skipper fee. Website says 200 EUR per day + meals, emails say 1,470 EUR per week excl. VAT and provisioning, no day skipper, see [Crew](../policies/crew.md). The website value is probably outdated ([D-025](../decisions/open.md#d-025))
 
 ## Examples
 
 - [Spec offer, Aug 2026](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874268433130066022)
 - [Spec offer, Sep 2026](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875671087231639565)
 - [Berths, Sep 2026](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875839684198023110)
+- [Website page](https://ionionsails.com/boats/bavaria-c38-trata/)
 
 ## Related
 

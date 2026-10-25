@@ -1,8 +1,8 @@
 ---
 title: Open decisions
 type: decision
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Open decisions
 
@@ -49,6 +49,15 @@ When a decision is taken: move it to [decided.md](decided.md) with date and name
 | [D-035](#d-035) | RYA courses: price, location, dates, instructor | policies/licences.md |
 | [D-036](#d-036) | Goodwill compensation after complaints | policies/complaints.md |
 | [D-037](#d-037) | War and airspace closure: rebooking | policies/cancellation.md |
+| [D-038](#d-038) | Website boat pages: cabins, capacity and year | fleet/ (website boat specs) |
+| [D-039](#d-039) | Fleet size | fleet/fleet.md |
+| [D-040](#d-040) | Cancellation: website wording vs the 120-day rule | policies/cancellation.md |
+| [D-041](#d-041) | Bareboat crew: one licensed person or two experienced | policies/licences.md |
+| [D-042](#d-042) | Flexible dates and 10-day charters | policies/options.md |
+| [D-043](#d-043) | Bases: Corfu, Preveza and Zea Marina | bases/corfu.md |
+| [D-044](#d-044) | Base facts: distances, address and services | bases/lefkas.md |
+| [D-045](#d-045) | Crewed charters: concierge and gourmet dining | services/crewed-charters.md |
+| [D-046](#d-046) | Lowest price claim | fleet/selling-points.md |
 
 <a id="d-001"></a>
 
@@ -119,6 +128,7 @@ Question: Do we offer a 30/20/50 plan on request, and with which dates?
 | 30% after confirmation, 20% 20 days later, 50% 56 days before | 2026-04-07 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-8891192282441705844) |
 | 30% 7 days after confirmation, 20% 230 days before, 50% 56 days before; 30/30/40 as exception | 2026-08-19 and 2026-08-20 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r133633496015139089) |
 | 30% to confirm, 20% 30 to 40 days later, 50% 56 days before arrival | 2026-10-12 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878556099398132277) |
+| 30% after confirmation, 20% after 20 days, 50% up to 56 days before, shown as the 'flexible payment terms' (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/charter-info/flexible-payment-terms/) |
 
 Suggestion (not decided): 30% to confirm, 20% 30 to 40 days later, 50% 56 days before arrival, on request only (most recent).
 
@@ -178,6 +188,7 @@ Question: When does a booking count as confirmed, when do we send the documents,
 | Package: Booking Confirmation, Charter Party, Boarding Pass | 2026-05-12 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r6760938725619412175) |
 | Package: charter party, crew list template, arrival brochure | 2026-07-09 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879107344448923522) |
 | Package: confirmation, base brochure, pre-arrival document, transport form | 2026-09-02 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874777414976696702) |
+| Official contract (Charter Party) within 5 days after the bank transfer receipt and personal and crew details (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/services/bareboat-charters/) |
 
 Suggestion (not decided): Documents sent once we have the charterer details; booking officially confirmed on receipt of the first payment (most recent). Package list: not decided.
 
@@ -239,6 +250,7 @@ Question: Do we accept American Express, and for what? Which payment reference d
 | Yacht fee can be paid with Amex | 2026-09-21 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876775149450101148) |
 | Amex question unanswered, link reissued | 2026-10-22 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r4949231276477182533) |
 | Reference: booking confirmation number vs boat name plus period | same thread, 2026-09-17 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876571031318957080) |
+| VISA, MasterCard and Diners accepted; no AMEX, debit cards or personal cheques (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/services/bareboat-charters/) |
 
 Suggestion (not decided): Amex for the yacht fee only, not for the security deposit (most recent explicit answer); reference: booking confirmation number.
 
@@ -321,6 +333,7 @@ Question: When do we give a free outboard, SUP or Wi-Fi, or an extra discount, a
 | No free extras when discount is over 60% | 2026-08-25 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874114164144878750) |
 | No free extras on a two-boat booking; extra discount instead | 2026-10-18 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879378660738673831) |
 | Extra discount refused / left to the broker / early booking raised 40% to 45% | 2026-09-17 to 2026-10-09 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877297986949125923) |
+| Up to 45% off selected boats through August plus free WiFi when booking direct (2023 offer, probably outdated) (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/direct-booking-offer-2023/) |
 
 Suggestion (not decided): One free extra (outboard or SUP) as goodwill to close a booking, none above 60% discount (most frequent). Approver: not found.
 
@@ -406,6 +419,7 @@ Question: With our skipper: 50% deposit, no deposit, or Damage Waiver? What is t
 | Broker said 400 DW mandatory; not answered | 2026-09-24 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877199775004118907) |
 | No deposit on this skippered yacht | 2026-09-29 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876878712966664615) |
 | Lagoon 46: 2,250 vs 2,750 | 2026-07-20 to 2026-09-08 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875571472793171311) |
+| Non-refundable deposit insurance offered through a partner on skippered charters (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/services/skippered-charters/) |
 
 Suggestion (not decided): 50% of the deposit with our skipper, no Damage Waiver; full deposit when the client skippers (most frequent). Lagoon 46: 2,250.
 
@@ -466,6 +480,7 @@ Question: How is the DW fee paid, what does insuring the 1,000 on the spot cost,
 | Insure the 1,000 on the spot: 240 | 2026-04-07, 2026-10-08 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8085554789230008228) |
 | Cash deposit: 'a small amount like 500' / 'minimum 500' on card | 2026-09-09 to 2026-09-16 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876016774464764198) |
 | Release: a few days vs 5 to 10 working days | 2026-04-09 to 2026-10-23 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879660785464010866) |
+| Refundable deposit returned immediately after the charter (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/services/bareboat-charters/) |
 
 Suggestion (not decided): DW fee paid at check-in to the insurer by QR code; on-spot cover 240; minimum 500 on a card; release 5 to 10 working days (most recent).
 
@@ -488,6 +503,7 @@ Question: What are the official prices for outboard, Wi-Fi, SUP, kids safety net
 | Kids safety net two weeks 380 vs 190 | 2026-09-03 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1856292160910940686) |
 | Speakers 80 vs 85 | 2026-08-11 and 2026-09-19 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8589824299572312638) |
 | Outboard power: 9.9 HP on some boats vs max 7 HP | 2026-09-24 and 2026-10-12 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878827501569184732) |
+| Unlimited Wi-Fi 65 per week on Amor Fati (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/boats/sun-odyssey-379/) |
 
 Suggestion (not decided): Outboard 90 per week, Wi-Fi 90, SUP 130 per week (most frequent). Others need one official list.
 
@@ -509,6 +525,7 @@ Question: What are the start pack amounts per size, and are linen and towels in 
 | Kalm 290; Horizon and Seabird 470 | 2026-08-25 to 2026-10-12 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874759549807418805) |
 | Linen in yacht price vs in start pack | 2026-09-19 and 2026-09-28 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877511717097818098) |
 | One set vs two sets per person per week | 2026-08-31 to 2026-10-02 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877280075538498150) |
+| 'No other extra charges will arise during your charter' (website), while End cleaning / Start Pack is obligatory and fuel and mooring are paid by the charterer | website, fetched 2026-10-25 | [website](https://ionionsails.com/charter-info/chartering-extras/) |
 
 Suggestion (not decided): Size table of 2026-09-05 plus the 350 band (most recent); linen in the yacht price, one set per person per week (most recent).
 
@@ -531,6 +548,8 @@ Question: Check-in time at each base, early check-in price, Friday return time, 
 | Return Friday 16:00 | most offers and replies to 2026-10-22 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1879679266998718677) |
 | Return Friday 17:00 | replies 2026-05-14, 2026-09-01 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r2381189667498212611) |
 | Pets up to 10 kg vs 7 to 10 kg | 2026-09-28 and 2026-10-12 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r1034190166682238093) |
+| Pet owners always get early check-in (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/ionion-blog/charter-sailing-with-pets/) |
+| Early check-in not charged if it cannot be done, and not a valid reason for any refund (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/charter-info/chartering-extras/) |
 
 Suggestion (not decided): Check-in 17:00; early check-in 170 EUR for 14:00; return Friday 16:00; pets up to 10 kg (most frequent). Nea Peramos times to confirm.
 
@@ -551,6 +570,9 @@ Question: Which yachts have the 1,470 skipper fee and which 1,500? Is 'Hostess/C
 | Skipper 1,500 as a general figure | 2026-09-05 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r6622735813407479155) |
 | Skipper 2,100 on a one-way offer | 2026-08-24 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621) |
 | Hostess 1,330, cook 1,610 vs 'Hostess/Cook' 1,610 | 2026-08-26 to 2026-09-05 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874973459967078736) |
+| Skipper 200 per day + meals, hostess 180 per day (website, probably the old 2026 rate; the 2026 skipper fee was 1,400 per week) | website, fetched 2026-10-25 | [extras](https://ionionsails.com/charter-info/chartering-extras/), [skippered](https://ionionsails.com/services/skippered-charters/), [boat pages](https://ionionsails.com/boats/) |
+| Optional skipper 200 per day + meals also listed on crewed or skippered-only boats (Big Orange Boat, Saga, Horizon) (website) | website, fetched 2026-10-25 | [Big Orange Boat](https://ionionsails.com/boats/bali-4-8-the-big-orange-boat/), [Saga](https://ionionsails.com/boats/lagoon-52f-saga/), [Horizon](https://ionionsails.com/boats/horizon-leopard-43/) |
+| Amor Fati hostess 170 per day (website) vs 1,330 per week on crewed yachts | website, fetched 2026-10-25 | [website](https://ionionsails.com/boats/sun-odyssey-379/) |
 
 Suggestion (not decided): 1,470 on bareboat yachts with optional skipper, 1,500 on skippered-only and crewed yachts; hostess 1,330, cook 1,610 (most frequent).
 
@@ -675,6 +697,7 @@ Question: Which figure is right for each boat below?
 | Pulsar and Martha mainsail: full batten / semi full batten / classic; e-check-in says roller furling | 2026-07-22 to 2026-10-10 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878576024350233377) |
 | Saga cabin layout; Big Orange Boat 12 berths / 9 adults / 10 guests; Enjoy 12 berths vs 10 people | 2026-08-27 to 2026-10-05 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877601682298735882) |
 | Equipment: Nala lithium; Bali 4.8 BBQ; Pure Chaos summary; C38 berths 8 vs 7 | 2026-08-23 to 2026-10-09 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876391812016631910) |
+| Pulsar mainsail: furling, 49.8 m2, built 2019 (website; same mistake as the e-check-in sheet, team says full batten) | website, fetched 2026-10-25 | [website](https://ionionsails.com/boats/dufour-460-grand-large/) |
 
 Suggestion (not decided): Confirm each from the spec sheet. Until then, boat pages show the most recent email value and link here.
 
@@ -717,6 +740,9 @@ Question: How do we describe who owns and maintains the yachts?
 | 'IonionSails owns its boats' | 2026-10-02 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877790990168600621) |
 | Maintained in-house at our own shipyard | 2026-01-20 to 2026-10-17 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r4949231276477182533) |
 | Cleaning by external providers, no in-house cleaning team | 2026-08-31 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874877802515595410) |
+| '100% privately owned', majority owned by directors and staff (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/why-choose-us/) |
+| Company in-sources all departments (website), while cleaning is done by external providers | website, fetched 2026-10-25 | [website](https://ionionsails.com/about-us/) |
+| Every second year major renewals, 6 months in dry dock at our own shipyard, repairs only by own staff (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/why-choose-us/) |
 
 Suggestion (not decided): Maintenance in-house at our shipyard, cleaning by external providers (both stated, compatible); ownership wording to choose.
 
@@ -736,6 +762,7 @@ Question: What are the day cruise prices for 2027, and do we still sell monohull
 | Athos 500 + 210; Pathos 540 + 210 | 2026-09-14 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8969726113201457806) |
 | Athos 600 + 200; Pathos 800 + 200; Breathless II 1,000 + 200 | for 2 July 2027, quoted 2026-10-16 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r3224698397064099355) |
 | Monohull and cat day cruises fully booked, only RIBs, while the website advertises them | 2026-08-28, 2026-09-09 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874399525473525641) |
+| Fully private day cruises on RIBs, motor boats and catamarans, no prices, flexible times (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/private-boat-tours/) |
 
 Suggestion (not decided): 2027: use the 2026-10-16 quote (most recent). Confirm if the Aug vs Sep 2026 difference was seasonal.
 
@@ -757,6 +784,7 @@ Question: Day Skipper price, where courses run, when they restart in 2027, and w
 | 2027 restart: March / end of April / Coastal Skipper from May | 2026-09-14 to 2026-10-12 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877217291057683971) |
 | Instructor 2,400 per week excl. meals vs excl. VAT and food | 2026-09-24 and 2026-09-28 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877566256346006549) |
 | No trainer for licensed sailors (2025) vs instructor available (2026) | 2025-06-08 and 2026-09-24 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875394832079599021) |
+| Learn to sail in Lefkada, Meganisi, Kalamos, Kastos, Kefalonia, Ithaca; levels: beginner crew, toward Day Skipper, Day Skipper, fast-track beginner skipper; no Coastal Skipper (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/services/learn-to-sail-vacation/) |
 
 Suggestion (not decided): 1,050 per person per week, shared cabin (most frequent); instructor 2,400 per week excl. VAT and meals (most recent).
 
@@ -798,6 +826,173 @@ Question: Do we still offer flexible rebooking without penalty when travel is bl
 Suggestion (not decided): Most recent reply gave no extra concession. The team should confirm if the April rule still stands.
 
 Affects: [cancellation.md](../policies/cancellation.md), [direct-clients.md](../faq/direct-clients.md), [brokers.md](../faq/brokers.md)
+
+Status: open
+
+<a id="d-038"></a>
+
+## D-038 Website boat pages: cabins, capacity and year
+
+Question: Which cabin count, capacity and year is right where the website boat page differs from our emails and from the website fleet list?
+
+| version | where / when | example |
+| --- | --- | --- |
+| Argyroula: up to 7 people (emails: 8 berths) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/boats/beneteau-oceanis-41-1-argyroula/) |
+| Alexa: 8 guests in 4 cabins (emails and site list: 10) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/boats/hanse-455-alexa/) |
+| Aurelia: sleeps 8 in 4 double cabins (emails and site list: 10) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/boats/sun-odyssey-440-aurelia/) |
+| Kalm: up to 10 people (emails and site list: 12) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-490-kalm/) |
+| Rih: 4 cabins (emails: 5, 4 double + 1 bow) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/boats/fountaine-pajot-isla-40-rih/) |
+| Nala: 4 cabins (emails: 5, 4 double + 1 bow) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/boats/lagoon-42-nala/) |
+| Vallejo: 4 cabins (emails: 5); catamaran list says 2020 (emails: 2018, rebuilt 2020) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/boats/bali-4-0/), [list](https://ionionsails.com/catamaran-charter-prices-greece/) |
+| Idalion, Imeroessa, Full Moon, Rubaiyat: 4 cabins (emails and site list: 6) | emails, 2026-08 to 2026-10 | [Idalion](https://ionionsails.com/boats/lagoon-420-idalion/), [Imeroessa](https://ionionsails.com/boats/lagoon-40-imeroessa/), [Full Moon](https://ionionsails.com/boats/lagoon-42-full-moon/), [Rubaiyat](https://ionionsails.com/boats/bali-4-2-rubaiyat/) |
+| Atman, Jovial: 5 cabins (emails and site list: 6) | emails, 2026-08 to 2026-10 | [Atman](https://ionionsails.com/boats/beneteau-oceanis-51-1-brand-new/), [Jovial](https://ionionsails.com/boats/beneteau-oceanis-51-1-jovial/) |
+| Saga: five cabins (emails and site list: 7); year 2018 (emails: 2019, built Nov 2018) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/boats/lagoon-52f-saga/), [list](https://ionionsails.com/catamaran-charter-prices-greece/) |
+| Amor Fati: year 2021 (emails: 2014, total rebuild 2022) | emails, 2026-08 to 2026-10 | [website](https://ionionsails.com/yacht-charter-prices-greece/) |
+
+Suggestion (not decided): Keep the email values (cabins and berths match the website fleet lists in most cases). The boat page texts look copied between boats. Confirm each from the spec sheet and fix the website.
+
+Affects: [argyroula.md](../fleet/argyroula.md), [alexa.md](../fleet/alexa.md), [aurelia.md](../fleet/aurelia.md), [kalm.md](../fleet/kalm.md), [rih.md](../fleet/rih.md), [nala.md](../fleet/nala.md), [vallejo.md](../fleet/vallejo.md), [idalion.md](../fleet/idalion.md), [imeroessa.md](../fleet/imeroessa.md), [full-moon.md](../fleet/full-moon.md), [rubaiyat.md](../fleet/rubaiyat.md), [atman.md](../fleet/atman.md), [jovial.md](../fleet/jovial.md), [saga.md](../fleet/saga.md), [amor-fati.md](../fleet/amor-fati.md), [fleet.md](../fleet/fleet.md)
+
+Status: open
+
+<a id="d-039"></a>
+
+## D-039 Fleet size
+
+Question: How many boats do we say we have at Lefkas?
+
+| version | where / when | example |
+| --- | --- | --- |
+| Over 40 yachts; lists add up to 18 catamarans + 22 monohulls = 40 (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/why-choose-us/) |
+| 45 boats at Lefkas, cleaned every Saturday (the wiki list has 40 sailing yachts + 3 day cruise boats) | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
+
+Suggestion (not decided): Count the boats once, then use one number everywhere (website, offers, signature). Confirm what counts (sailing yachts, day cruise boats, partner boats).
+
+Affects: [fleet.md](../fleet/fleet.md), [about.md](../company/about.md)
+
+Status: open
+
+<a id="d-040"></a>
+
+## D-040 Cancellation: website wording vs the 120-day rule
+
+Question: Do we publish the 120-day rule, or "free cancellation, each case assessed individually"?
+
+| version | where / when | example |
+| --- | --- | --- |
+| Free cancellation, each case assessed individually, alternative dates offered, no refund percentages (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/charter-info/travel-insurance/) |
+| 120 days or more before: advance refunded in full. Under 120 days: amount kept, credit if rebooked on the same terms | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
+
+Suggestion (not decided): Keep the 120-day rule in offers and answers. Decide if the website should show it, or say clearly that it is case by case.
+
+Affects: [cancellation.md](../policies/cancellation.md), [direct-clients.md](../faq/direct-clients.md), [brokers.md](../faq/brokers.md)
+
+Status: open
+
+<a id="d-041"></a>
+
+## D-041 Bareboat crew: one licensed person or two experienced
+
+Question: Does a bareboat charter need one licensed skipper or two experienced crew members?
+
+| version | where / when | example |
+| --- | --- | --- |
+| Two experienced crew members, a co-skipper with some experience; the harbour authority may ask for declarations (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/services/bareboat-charters/) |
+| Only one person needs the licence, a second experienced person is an advantage | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
+
+Suggestion (not decided): One licensed skipper required, a second experienced person recommended (what the team tells clients).
+
+Affects: [licences.md](../policies/licences.md), [bareboat-charters.md](../services/bareboat-charters.md)
+
+Status: open
+
+<a id="d-042"></a>
+
+## D-042 Flexible dates and 10-day charters
+
+Question: Do we offer flexible start dates and trip lengths such as 10 days, or Saturday to Saturday only?
+
+| version | where / when | example |
+| --- | --- | --- |
+| Flexible embarkation and disembarkation dates and trip length, for example a 10-day itinerary, subject to availability (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/why-choose-us/) |
+| Weekly, Saturday to Saturday only. A 10-day request for 12 to 22 June 2027 was offered as 7 days; 10-day periods seen only on one-way deliveries | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
+
+Suggestion (not decided): Saturday to Saturday only, 10 days only on one-way deliveries on request. Fix the website wording or confirm exceptions.
+
+Affects: [options.md](../policies/options.md), [check-in.md](../policies/check-in.md), [why-choose-us.md](../company/why-choose-us.md), [direct-clients.md](../faq/direct-clients.md)
+
+Status: open
+
+<a id="d-043"></a>
+
+## D-043 Bases: Corfu, Preveza and Zea Marina
+
+Question: Which bases do we have? The website lists more than our emails do.
+
+| version | where / when | example |
+| --- | --- | --- |
+| Corfu base at Gouvia Marina, also used in the Corfu itineraries (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/our-bases/other-ionian-bases/), [itineraries](https://ionionsails.com/attraction/suggested-itineraries-from-corfu/) |
+| Preveza City Marina and Zea Marina listed as bases, besides Lefkas, Corfu and Nea Peramos (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/our-bases/athens-charter-bases/) |
+| One-way between Lefkas and Athens, also Corfu, Preveza and Zea bases (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/why-choose-us/) |
+| Two in-house bases (Lefkas and Nea Peramos). No base in Corfu, a start there is not offered (8 to 10 hours of sailing). Preveza and Zea never mentioned | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
+
+Suggestion (not decided): Two in-house bases, Lefkas and Nea Peramos. Confirm if Corfu, Preveza or Zea are partner or one-way points, then fix the website.
+
+Affects: [corfu.md](../bases/corfu.md), [preveza.md](../bases/preveza.md), [zea-marina.md](../bases/zea-marina.md), [lefkas.md](../bases/lefkas.md), [nea-peramos.md](../bases/nea-peramos.md), [options.md](../policies/options.md), [about.md](../company/about.md), [itineraries.md](../destinations/itineraries.md)
+
+Status: open
+
+<a id="d-044"></a>
+
+## D-044 Base facts: distances, address and services
+
+Question: Which distances, street spelling and base services do we state?
+
+| version | where / when | example |
+| --- | --- | --- |
+| Lefkas to Aktion airport: 20 minutes by car (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
+| Office street Petrou Filippou Panagou 18 (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/contact/) |
+| Laundry/Cleaning, free berth and free water listed as base services (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/our-bases/lefkas-main-base/) |
+| Nea Peramos to Athens airport: 30 minutes by car or suburban railway (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/our-bases/winter-base/) |
+| Aktion about 30 to 40 minutes; street spelled Papagou; laundry store only, same-day return not certain; visiting boats pay 35 per day for electricity and water; Nea Peramos to airport about 45 minutes | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
+
+Suggestion (not decided): Use the email values. Check the street spelling on the official documents. Free berth and water may apply to charter yachts only.
+
+Affects: [lefkas.md](../bases/lefkas.md), [nea-peramos.md](../bases/nea-peramos.md)
+
+Status: open
+
+<a id="d-045"></a>
+
+## D-045 Crewed charters: concierge and gourmet dining
+
+Question: Do we offer concierge, a private chef, yoga or similar premium services on crewed charters?
+
+| version | where / when | example |
+| --- | --- | --- |
+| Concierge, gourmet dining with a private chef on request, yoga and aqua pilates listed as premium services (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/crewed-yacht-charters/) |
+| No concierge, the skipper helps book restaurants. The hostess cooks breakfast and lunch only. A cook is a separate paid role | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
+
+Suggestion (not decided): Describe only what the emails confirm. Check if a private chef can be arranged.
+
+Affects: [crewed-charters.md](../services/crewed-charters.md)
+
+Status: open
+
+<a id="d-046"></a>
+
+## D-046 Lowest price claim
+
+Question: Can we say a reservation without a broker gives the lowest charter fee?
+
+| version | where / when | example |
+| --- | --- | --- |
+| '100% unbeatable prices'; because the fleet is privately owned and there is no broker, a direct reservation gives the lowest fee; 'you never pay list price' (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/why-choose-us/) |
+| Brokers book the same boats on our terms and may give up to 5% off from their own commission. Our rates are 'usually already our best' and we compare competing offers. No email says direct is the cheapest | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
+
+Suggestion (not decided): Do not promise the lowest price in writing. Decide if the website claim stays.
+
+Affects: [selling-points.md](../fleet/selling-points.md), [direct-clients.md](../faq/direct-clients.md)
 
 Status: open
 

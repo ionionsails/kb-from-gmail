@@ -16,11 +16,16 @@ Every page of the sales wiki, one line each. Rules for writing and updating are 
 - [Options (non-binding holds)](policies/options.md); free non-binding hold, usual length, expiry and confirmation rules
 - [Payment terms and methods](policies/payment.md); 50/50 plan, when the booking is secured, bank, card and cash rules, payment link and reference
 - [Transfers and train to Nea Peramos](policies/transfers.md); partner transfers, car rental tips, free train tickets for Nea Peramos charters
+- [Prices and price levels](policies/prices.md); price levels and why the wiki holds no fixed charter price
 
 ## Bases
 
 - [Lefkas base (Ionian)](bases/lefkas.md); port, docks, office, airport, visiting boats, local tips, season dates
 - [Nea Peramos base (Saronic)](bases/nea-peramos.md); Saronic base near Athens airport, free train, season dates, one-way and wrong-base policy
+- [Corfu base (Gouvia Marina, website only)](bases/corfu.md); website lists a Corfu base at Gouvia Marina, our emails say we have none
+- [Preveza base (website only)](bases/preveza.md); website lists Preveza City Marina as a base, our emails never mention it
+- [Winter base (Nea Peramos Shipyard)](bases/winter-base.md); winter maintenance at the Nea Peramos shipyard, October to April
+- [Zea Marina (Athens, website only)](bases/zea-marina.md); website lists Zea Marina as an Athens base, our emails use Nea Peramos
 
 ## Fleet
 
@@ -75,6 +80,7 @@ Every page of the sales wiki, one line each. Rules for writing and updating are 
 - [Vega (Jeanneau Sun Odyssey 469)](fleet/vega.md); Nea Peramos 4-cabin monohull, train transfer
 - [Wander (Lagoon 450 F)](fleet/wander.md); Lefkada 46 ft cat
 - [Why Not 14 (Dufour 390)](fleet/why-not-14.md); 3-cabin monohull with BBQ
+- [Selling points](fleet/selling-points.md); boat selling points and website claims on ownership, price and refit
 
 ## Brokers
 
@@ -99,7 +105,35 @@ Every page of the sales wiki, one line each. Rules for writing and updating are 
 - [Welcome on Board (booking documents)](templates/welcome-on-board.md); booking documents email with confirmation, charter party and boarding pass
 - [Your Option on our [Boat]](templates/your-option.md); option placed notice for brokers and a paragraph for direct clients
 
+## Services
+
+- [Bareboat charters](services/bareboat-charters.md); bareboat rules, crew needed, what is included, website claims
+- [Crewed yacht charters](services/crewed-charters.md); captain and hostess on board, cook on request, website premium services
+- [Flotillas (summer, themed, Explorer and Training)](services/flotillas.md); summer, themed, Explorer and Training flotillas run by partners with our yachts
+- [Learn to sail vacations (RYA)](services/learn-to-sail.md); sailing holidays with an RYA instructor from Ionian Mode, course levels
+- [Yacht maintenance and refit](services/maintenance.md); in-house maintenance and refit, how we describe it
+- [Private boat tours (Ionion Cruise day trips)](services/private-boat-tours.md); Ionion Cruise private day cruises from Lefkas, availability open (D-034)
+- [Skippered charters](services/skippered-charters.md); our skipper on the client's chosen yacht, fees and duties
+- [360 yacht management](services/yacht-management.md); 360 yacht management for owners, website only
+
+## Destinations
+
+- [Ithaca](destinations/ithaca.md); island between Lefkada and Kefalonia, stops and sights
+- [Suggested itineraries (Lefkas and Corfu)](destinations/itineraries.md); day by day routes from Lefkas and Corfu with nautical miles and times
+- [Kalamos, Kastos and Atokos](destinations/kalamos-kastos-atokos.md); quiet islands close to Lefkas for swim stops and calm nights
+- [Kefalonia](destinations/kefalonia.md); about 3.5 hours of sailing from Lefkada, ports and shelter
+- [Lefkada coast and Meganisi](destinations/lefkada-meganisi.md); stops around Lefkada and Meganisi
+- [North of Lefkas: Paxoi, Antipaxos, Corfu and the mainland](destinations/north-paxos-corfu-mainland.md); Paxoi, Antipaxos, Corfu and mainland ports, longer legs
+- [Sailing area from Lefkas (overview)](destinations/overview.md); the sailing area from Lefkas, weather and distances
+- [Zakynthos](destinations/zakynthos.md); south of our area, possible with planning
+
+## Company
+
+- [About IonionSails (company, team, contact)](company/about.md); who we are, team, group companies and contact facts
+- [Why choose us (selling points)](company/why-choose-us.md); selling points we publish and how they match our emails
+
 ## Decisions
 
 - [Decided](decisions/decided.md); decisions taken by the team, with date
-- [Open decisions](decisions/open.md); 37 open decisions where our emails disagree, plus missing information
+- [Open decisions](decisions/open.md); 46 open decisions where our emails disagree, plus missing information
+- [Website updates needed](decisions/website-updates.md); website pages that are wrong or outdated next to current practice, with the suggested fix

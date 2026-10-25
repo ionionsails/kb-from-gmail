@@ -1,8 +1,8 @@
 ---
 title: FAQ for direct clients
 type: faq
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # FAQ for direct clients
 
@@ -119,7 +119,7 @@ The rates are usually already our best. As a returning guest you can use your lo
 Asked: 15. Example: [best rate reply](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8589824299572312638)
 
 ### Is the boat well maintained? How does it compare with another model?
-All our yachts get winter maintenance at our own shipyard by our in-house technical team, who also support the fleet in season. Model details are on the [fleet pages](../fleet/fleet.md).
+All our yachts get winter maintenance at our own shipyard by our in-house technical team, who also support the fleet in season. Each yacht in our offer has a video, real photos and an e-check-in link, and we keep a photo record at check-out. Model details are on the [fleet pages](../fleet/fleet.md); what we highlight and what guests say is on [Selling points](../fleet/selling-points.md).
 Asked: 15. Example: [Bali 4.2 vs Lagoon 46](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r4949231276477182533)
 
 ### Do you have day cruises?
@@ -170,10 +170,26 @@ Asked: 6. Example: [partner voucher](https://mail.google.com/mail/?authuser=info
 Yes, no fee for a crew change; the base is easiest. Every guest must be on the crew list.
 Asked: 5. Example: [crew change](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874771922982268960)
 
+### What is the difference between bareboat, skippered and crewed?
+Bareboat: you sail the yacht yourselves, with one qualified skipper and one more person with some sailing experience. Skippered: we provide a professional skipper, and then no licence is needed. Crewed: skipper and hostess, and a cook on request; The Big Orange Boat and Saga are crewed only, Friends, Horizon and Seabird are skippered only. See [Licences](../policies/licences.md), [Crew](../policies/crew.md) and [Fleet](../fleet/fleet.md).
+Asked: from the website, not counted. Source: [bareboat page](https://ionionsails.com/services/bareboat-charters/)
+
+### Do you run flotillas?
+Yes. From Lefkada flotillas run almost every week in summer, organised by our partner Meraki Sailing. You book a yacht from our fleet as usual and pay a small extra flotilla fee that depends on boat size. In spring and autumn there is also a 10-day training flotilla and an Explorer Flotilla with an RYA instructor from our partner Ionian Mode. Fee, dates and routes: not found – please confirm. For groups that want to sail together without a flotilla see [Fleet](../fleet/fleet.md).
+Asked: from the website, not counted. Source: [flotillas page](https://ionionsails.com/services/our-flotillas/)
+
+### Is direct booking cheaper than booking through an agent?
+Our website says yes, because the fleet is privately owned and there is no broker in a direct reservation. We have not decided how to say this to clients, so do not promise it in writing. Say that our offer shows the discounts, and that we compare a competing offer if you send it. See [Selling points](../fleet/selling-points.md) and [Discounts](../policies/discounts.md).
+Asked: from the website, not counted. Source: [why choose us](https://ionionsails.com/why-choose-us/)
+
+### Can we bring a pet?
+Yes, on charters from Lefkada. You need a valid pet health passport and pay a cleaning fee after check-out; pet owners get early check-in, and a free dog raft on request at booking. Terms are on [Options](../policies/options.md) and [Check-in](../policies/check-in.md).
+Asked: from the website, not counted. Source: [pets article](https://ionionsails.com/ionion-blog/charter-sailing-with-pets/)
+
 ## Open questions
 
 [D-001](../decisions/open.md#d-001), [D-002](../decisions/open.md#d-002), [D-003](../decisions/open.md#d-003), [D-007](../decisions/open.md#d-007), [D-008](../decisions/open.md#d-008), [D-010](../decisions/open.md#d-010), [D-014](../decisions/open.md#d-014), [D-015](../decisions/open.md#d-015), [D-016](../decisions/open.md#d-016), [D-017](../decisions/open.md#d-017), [D-018](../decisions/open.md#d-018), [D-020](../decisions/open.md#d-020), [D-021](../decisions/open.md#d-021), [D-022](../decisions/open.md#d-022), [D-023](../decisions/open.md#d-023), [D-024](../decisions/open.md#d-024), [D-025](../decisions/open.md#d-025), [D-026](../decisions/open.md#d-026), [D-027](../decisions/open.md#d-027), [D-028](../decisions/open.md#d-028), [D-029](../decisions/open.md#d-029), [D-030](../decisions/open.md#d-030), [D-031](../decisions/open.md#d-031), [D-033](../decisions/open.md#d-033), [D-034](../decisions/open.md#d-034), [D-035](../decisions/open.md#d-035), [D-036](../decisions/open.md#d-036), [D-037](../decisions/open.md#d-037)
 
 ## Related
 
-[FAQ for brokers](brokers.md), [Payment](../policies/payment.md), [Deposit and insurance](../policies/deposit-insurance.md), [Extras](../policies/extras.md), [Our offer](../templates/our-offer.md), [Regarding your inquiry](../templates/regarding-your-inquiry.md)
+[FAQ for brokers](brokers.md), [Payment](../policies/payment.md), [Deposit and insurance](../policies/deposit-insurance.md), [Extras](../policies/extras.md), [Selling points](../fleet/selling-points.md), [Our offer](../templates/our-offer.md), [Regarding your inquiry](../templates/regarding-your-inquiry.md)

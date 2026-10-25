@@ -1,8 +1,8 @@
 ---
 title: FAQ for brokers
 type: faq
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # FAQ for brokers
 
@@ -74,6 +74,14 @@ Asked: 9. Example: [skippered-only](https://mail.google.com/mail/?authuser=info@
 The client pays us directly and we pay back your commission. You may advertise our boats with at most 5% off from your commission. We send our T&Cs and the charter party on request and usually set up an online meeting. See [Working with brokers](../brokers/working-with-brokers.md).
 Asked: 4. Example: [partner terms](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1811271877700333038)
 
+### Can you do a flotilla, a group charter or a club booking?
+Yes, we work with clubs and groups. Flotillas from Lefkada are run by our partner Meraki Sailing, with our yachts and skippers, and carry a small extra fee that depends on boat size. Groups of 12 or 13 are best on two smaller catamarans sailing together; a premium flotilla needs catamarans registered for 12. Club packages and flotilla fee: not found – please confirm. Send us the dates, number of boats and guests. See [Fleet](../fleet/fleet.md) and [Discounts](../policies/discounts.md).
+Asked: from the website and the fleet notes, not counted. Source: [flotillas page](https://ionionsails.com/services/our-flotillas/)
+
+### What do we tell clients about the boats and the company?
+Use the points on [Selling points](../fleet/selling-points.md): winter maintenance at our own shipyard, a video, real photos and e-check-in for each yacht, and what guests praise in reviews. Do not tell clients that booking direct is cheaper, and do not use "100% privately owned" until [D-033](../decisions/open.md#d-033) is decided.
+Asked: from the website, not counted. Source: [why choose us](https://ionionsails.com/why-choose-us/)
+
 ## Also asked by brokers
 
 Same answer as for direct clients; see [FAQ for direct clients](direct-clients.md).
@@ -87,11 +95,12 @@ Same answer as for direct clients; see [FAQ for direct clients](direct-clients.m
 | Licence accepted, licence copy deadline | [Licences](../policies/licences.md) |
 | Yacht at the other base, one-way charters | [Nea Peramos](../bases/nea-peramos.md) |
 | Transfers and train | [Transfers](../policies/transfers.md) |
+| Bareboat, skippered or crewed, pets | [Fleet](../fleet/fleet.md), [Licences](../policies/licences.md), [Options](../policies/options.md) |
 
 ## Open questions
 
-[D-001](../decisions/open.md#d-001), [D-002](../decisions/open.md#d-002), [D-004](../decisions/open.md#d-004), [D-005](../decisions/open.md#d-005), [D-006](../decisions/open.md#d-006), [D-007](../decisions/open.md#d-007), [D-008](../decisions/open.md#d-008), [D-009](../decisions/open.md#d-009), [D-010](../decisions/open.md#d-010), [D-011](../decisions/open.md#d-011), [D-012](../decisions/open.md#d-012), [D-013](../decisions/open.md#d-013), [D-014](../decisions/open.md#d-014), [D-019](../decisions/open.md#d-019), [D-021](../decisions/open.md#d-021), [D-025](../decisions/open.md#d-025), [D-026](../decisions/open.md#d-026), [D-027](../decisions/open.md#d-027), [D-032](../decisions/open.md#d-032), [D-036](../decisions/open.md#d-036)
+[D-001](../decisions/open.md#d-001), [D-002](../decisions/open.md#d-002), [D-004](../decisions/open.md#d-004), [D-005](../decisions/open.md#d-005), [D-006](../decisions/open.md#d-006), [D-007](../decisions/open.md#d-007), [D-008](../decisions/open.md#d-008), [D-009](../decisions/open.md#d-009), [D-010](../decisions/open.md#d-010), [D-011](../decisions/open.md#d-011), [D-012](../decisions/open.md#d-012), [D-013](../decisions/open.md#d-013), [D-014](../decisions/open.md#d-014), [D-019](../decisions/open.md#d-019), [D-021](../decisions/open.md#d-021), [D-025](../decisions/open.md#d-025), [D-026](../decisions/open.md#d-026), [D-027](../decisions/open.md#d-027), [D-032](../decisions/open.md#d-032), [D-033](../decisions/open.md#d-033), [D-036](../decisions/open.md#d-036)
 
 ## Related
 
-[FAQ for direct clients](direct-clients.md), [Working with brokers](../brokers/working-with-brokers.md), [Commission and invoices](../brokers/commission-and-invoices.md), [Broker payments](../brokers/broker-payments.md), [Agencies](../brokers/agencies.md), [Broker offer](../templates/broker-offer.md)
+[FAQ for direct clients](direct-clients.md), [Working with brokers](../brokers/working-with-brokers.md), [Commission and invoices](../brokers/commission-and-invoices.md), [Broker payments](../brokers/broker-payments.md), [Agencies](../brokers/agencies.md), [Selling points](../fleet/selling-points.md), [Broker offer](../templates/broker-offer.md)

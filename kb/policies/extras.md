@@ -1,8 +1,8 @@
 ---
 title: Extras, start pack and provisioning
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Extras, start pack and provisioning
 
@@ -14,18 +14,18 @@ Optional extras are priced per week and paid in cash at the base. The end cleani
 
 | Extra | 1 week | 2 weeks | Applies to | Source |
 | --- | --- | --- | --- | --- |
-| Outboard, 4-stroke 2.3 HP + 5 L fuel | 90 | 180 | all yachts (standard dinghy about 2.8 m is included) | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878840524203439764) |
-| 3+ m GRP dinghy, outboard up to 7 HP | 280 | 560 | catamarans only | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878827501569184732) |
-| SUP | 130 | 260 or 200, not found – please confirm | all; guests may bring their own | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874777414976696702) |
+| Outboard, 4-stroke 2.3 HP + 5 L fuel | 90 | 180 | all yachts (standard dinghy about 2.8 m is included) | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878840524203439764); [website](https://ionionsails.com/charter-info/chartering-extras/) |
+| 3+ m GRP dinghy, outboard up to 7 HP | 280 | 560 | catamarans only | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878827501569184732); [website](https://ionionsails.com/charter-info/chartering-extras/) |
+| SUP | 130 | 260 or 200, not found – please confirm | all; guests may bring their own | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874777414976696702); [website](https://ionionsails.com/charter-info/chartering-extras/) |
 | Kayak | 180 | 360 | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877916549911835378) |
 | Seascooter | 180 | 360 | all | same list |
 | Inflatable carpet | 180 | 360 | all | same list |
 | Bluetooth Sony 100W speakers (portable) | 85 (80 in one Aug email) | 170 | all; boats already have Bluetooth speakers | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8589824299572312638) |
 | Nespresso machine (classic capsules) | 40 | 80 | all; moka pot is standard | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874397889470645110) |
-| Unlimited Wi-Fi (SIM router) | 90 | 180 | all; included on crewed catamarans | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875492680478010968) |
-| Kids safety: net + children's life jackets (Level 150) | 190 | 380 (190 given once) | all; installed by our team before the charter | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1856292160910940686) |
+| Unlimited Wi-Fi (SIM router) | 90 | 180 | all; included on crewed catamarans | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875492680478010968); [website](https://ionionsails.com/charter-info/chartering-extras/) |
+| Kids safety: net + children's life jackets (Level 150) | 190 | 380 (190 given once) | all; installed by our team before the charter | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1856292160910940686); [website](https://ionionsails.com/charter-info/chartering-extras/) |
 | Automatic life vest | 15 per person | 15 per person | all; manual vests are on board | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r7688574335672434722) |
-| Early check-in (embarkation by 14:00) | 170 | 170 | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1858011269942226153) |
+| Early check-in (embarkation by 14:00) | 170 | 170 | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1858011269942226153); [website](https://ionionsails.com/charter-info/chartering-extras/) |
 | 3-cabin conversion | 150 | not found – please confirm | Bavaria C45 | same list |
 | Second cleaning during the charter | 270 | n/a | all | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874984826294027071) |
 | Yacht transfer Lefkas to/from Corfu base (both ways) | 700 | n/a | on request | same list |
@@ -47,9 +47,12 @@ Prorated outboard on a 10-day one-way: EUR 128.57. Early check-in does not chang
 
 | Item | Rule | Source |
 | --- | --- | --- |
-| How extras are paid | In cash at the base on check-in. Cash avoids additional VAT | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-3404848639629302466) |
+| How extras are paid | In cash at the base on check-in. Cash avoids additional VAT | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-3404848639629302466); [website](https://ionionsails.com/charter-info/chartering-extras/) |
 | Adding extras | Possible up to the last minute, with notice so linen can be prepared. We send an updated booking confirmation | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r7701694780194056468) |
-| Early check-in | Embarkation by 14:00, standard is 17:00. Not guaranteed, depends on the condition of the yacht after the previous charter. One broker deal: fee refunded if guests arrived after 14:00 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1858011269942226153) |
+| Early check-in | Embarkation by 14:00, standard is 17:00. Not guaranteed, depends on the condition of the yacht after the previous charter. One broker deal: fee refunded if guests arrived after 14:00 | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1858011269942226153); [website](https://ionionsails.com/charter-info/chartering-extras/) |
+| Early check-in, how it is added (website) | Applied at booking. Depends on the yacht being returned by the previous charterer without serious damage. If it cannot be done it is not charged, and this is not a valid reason for any refund | [website](https://ionionsails.com/charter-info/chartering-extras/) |
+| Outboard age (website) | Outboard 2.3 HP, 4-stroke, maximum 3 years old | [website](https://ionionsails.com/charter-info/chartering-extras/) |
+| Other extra charges (website) | Extra costs for optional services are stated in the offer and the charter party. The website says "no other extra charges will arise during your charter" | [website](https://ionionsails.com/charter-info/chartering-extras/) |
 | Free extras | Case by case, usually one item (SUP or outboard) as a closing gesture. Not on boats already at a special rate. Wi-Fi and transfers are not given free | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877231637202631844) |
 | Two kayaks | Once, one of the two was free for a direct client (2026-10-06) | [thread](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877916549911835378) |
 
@@ -136,6 +139,8 @@ BBQ:
 - [D-023](../decisions/open.md#d-023) Start pack and linen (sets per person, amounts by boat).
 - [D-014](../decisions/open.md#d-014) Free extras. The free outboard was refused in some threads and given in others (returning guest, broker deals, closing gesture). Default answer is not free.
 - Not yet in decisions/open.md, please add: when the provisioning link is sent (with booking documents, about two weeks before, or a few days before), mooring cost per night, non-refundable damage waiver amount shown in offers (see [D-016](../decisions/open.md#d-016)).
+- Website vs emails: the website says no other extra charges arise. Emails: the End cleaning / Start Pack is obligatory, and fuel and mooring are paid by the charterer ([D-023](../decisions/open.md#d-023), wording on the website should be checked)
+- Website vs emails: the website says early check-in that cannot be delivered is not charged and gives no refund. Emails show the fee refunded in some cases ([check-in.md](check-in.md), [D-024](../decisions/open.md#d-024))
 
 ## Examples
 

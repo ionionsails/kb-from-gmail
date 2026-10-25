@@ -1,8 +1,8 @@
 ---
 title: Booking documents and what we need from the client
 type: policy
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Booking documents and what we need from the client
 
@@ -19,6 +19,8 @@ What we send:
 | Boarding Pass | Yacht information and a link to the crew list | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r6760938725619412175) |
 | Other documents | Base information brochure, pre-arrival document for extras, transport form, provisioning list. Which ones go in the first email: [D-007](../decisions/open.md#d-007). | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874777414976696702) |
 | Broker bookings | Client confirmation without commission, plus contract and base information | brokers | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878576024350233377) |
+| Booking process (website) | Client sends preferences (yacht type, length, accommodation, location, dates). We send offers with availability, deposit and total cost, technical characteristics, inventory and photos of each boat. Final booking happens when the pre-agreed advance deposit is paid | direct clients | website 2026-10 | [website](https://ionionsails.com/services/bareboat-charters/) |
+| Charter Party timing (website) | After the bank transfer receipt and the personal and crew details are sent, the client receives the official contract within 5 days, already approved by the Hellenic Ministry of Merchant Marine. The full Charter Party with Terms and Conditions can be downloaded from the site | direct clients | website 2026-10 | [website](https://ionionsails.com/services/bareboat-charters/) |
 
 When and how:
 
@@ -26,7 +28,7 @@ When and how:
 | --- | --- | --- | --- | --- |
 | First reply to a booking | Thank the client. Documents follow in a separate email. | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8085554789230008228) |
 | Payment link | In the documents email | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8085554789230008228) |
-| Booking confirmed | On receipt of the first payment ([D-007](../decisions/open.md#d-007)). Due date: [payment.md](payment.md). | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878786127388819395) |
+| Booking confirmed | On receipt of the first payment ([D-007](../decisions/open.md#d-007)). Due date: [payment.md](payment.md). | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878786127388819395); [website](https://ionionsails.com/services/bareboat-charters/) |
 | Before we send documents (brokers) | We ask for the charterer name and number of people | brokers | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876323408146641892) |
 | Booking after office closing (17:00) | Documents go out the next working morning | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8085554789230008228) |
 | Updated documents | Issued for date changes, vouchers, early check-in and added extras. Also on request, for example when the client chooses own insurance or the Damage Waiver. | all | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878840524203439764) |
@@ -76,6 +78,7 @@ Check the crew list deadline ([D-008](../decisions/open.md#d-008)) before you wr
 - [D-007](../decisions/open.md#d-007) When a booking is confirmed and what the documents contain
 - [D-008](../decisions/open.md#d-008) Crew list and guest details deadline
 - [D-003](../decisions/open.md#d-003) What starts the 7 days for the first payment
+- Website vs emails: the website says the Charter Party arrives within 5 days after the transfer receipt and the crew details. Emails send it with the booking documents right after the booking, before the first payment (see [D-007](../decisions/open.md#d-007)). The website page also still mentions a Covid policy section
 
 ## Examples
 

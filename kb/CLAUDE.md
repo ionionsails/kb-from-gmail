@@ -37,6 +37,17 @@ Top level: `index.md` (every page, one line each) and `log.md` (what was added, 
 Raw data lives in `../sources/YYYY-MM.jsonl` (privacy-cleaned Q&A pairs and facts from emails, one line each)
 and `../sources/website/` (main text of each ionionsails.com page, with its URL and fetch date; reviews without names).
 
+## Charter prices are not fixed
+
+The weekly charter price of a boat depends on the dates, how full the fleet is, and what competitors charge at that time.
+So the wiki never holds a charter price as a rule, and the plugin never quotes one from the wiki.
+- Do not store weekly/daily charter rates (website price lists, prices in offers) as values in Rules tables or FAQ answers.
+  If useful, keep them only as "price seen in an offer on <date>" examples, clearly marked as not a quote.
+- Different prices for the same boat and week in different emails are normal, not a conflict.
+- The answer to "how much is boat X" is always: we check availability for the dates and send an offer.
+- Fixed fees that do not depend on dates (security deposit, damage waiver, cleaning/start pack, extras, crew fees)
+  are fine as values, with their season.
+
 ## Sources and which one wins
 
 - Emails show what the team does now. The website shows what we publish.

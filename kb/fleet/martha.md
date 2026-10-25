@@ -1,8 +1,8 @@
 ---
 title: Martha (Sun Odyssey 410)
 type: boat
-updated: 2026-10-23
-sources: 2026-08 to 2026-10 (pilot)
+updated: 2026-10-25
+sources: emails 2026-08 to 2026-10 (pilot); website 2026-10
 ---
 # Martha (Sun Odyssey 410)
 
@@ -21,15 +21,24 @@ Martha: Sun Odyssey 410, 2021, based in Lefkada. Bareboat, skipper optional.
 | Base | Lefkada | this boat | 2026 and 2027 offers | [base page](../bases/lefkas.md) |
 | Charter type | Bareboat (skipper licence required); skipper optional | this boat | all | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621) |
 | Equipment | bowthruster, solar, lithium batteries, A/C in the saloon | this boat | all | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621) |
-| Security deposit | 3,000 EUR (June 2026 offer) | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621) |
+| Security deposit | 3,000 EUR (June 2026 offer) | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621) · [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) |
 | Damage Waiver | not found – please confirm | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621) |
-| End cleaning | 270 EUR | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621) |
+| End cleaning | 270 EUR | this boat | 2026-2027 offers | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621) · [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) |
 | Crew | Skipper optional. Fees: see [Crew](../policies/crew.md). | this boat | 2027 | [Crew](../policies/crew.md) |
 | Weekly prices | not kept on boat pages. See [Discounts](../policies/discounts.md). | this boat | 2027 | - |
+| Outboard (optional) | 90 EUR per week (website gives no period) | this boat | 2026-2027 | [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) · [Extras](../policies/extras.md) |
+| Skipper (website, optional) | 200 EUR per day + meals | this boat | website 2026-10 | [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) |
+| Mainsail | Fully battened mainsail, built 2021 (emails differ, see D-031) | this boat | website 2026-10 | [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) |
+| Jib | Roller furling jib, built 2021 | this boat | website 2026-10 | [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) |
+| Max draft | 2.00 m | this boat | website 2026-10 | [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) |
+| Max rudder draft | 1.20 m | this boat | website 2026-10 | [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) |
+| Engine | 1 x Yanmar saildrive | this boat | website 2026-10 | [website](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/) |
 
 Selling points and cautions:
 
 - Available only from Lefkada, not from Nea Peramos.
+- Website: 3 spacious cabins, convertible saloon table
+- Website: Described as brand new and the latest addition to the fleet (she is 2021)
 
 ## How we answer
 
@@ -38,12 +47,14 @@ Martha is a Sun Odyssey 410 from 2021, based in Lefkada. She has 3 double cabins
 ## Open questions
 
 - [D-031](../decisions/open.md#d-031) (mainsail: full batten, semi full batten or classic; e-check-in sheet says roller furling)
+- Website vs emails: skipper fee. Website says 200 EUR per day + meals, emails say 1,470 EUR per week excl. VAT and provisioning, no day skipper, see [Crew](../policies/crew.md). The website value is probably outdated ([D-025](../decisions/open.md#d-025))
 
 ## Examples
 
 - [Monohull list, Aug 2026](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1869885848870701621)
 - [Mainsail question, Oct 2026](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878667639406790657)
 - [Mainsail type, Oct 2026](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878576024350233377)
+- [Website page](https://ionionsails.com/boats/jeanneau-sun-odyssey-410-martha/)
 
 ## Related
 
