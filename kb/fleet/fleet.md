@@ -33,6 +33,8 @@ Fleet-wide facts (a value lives on one page, so prices, deposits and extras are 
 | Catamaran list (website) | 18 catamarans with year, cabins, WC and people. Matches our pages except: Vallejo year 2020 (emails 2018), Saga year 2018 (emails 2019). Details on each boat page | Lefkada | 2026 | [website](https://ionionsails.com/catamaran-charter-prices-greece/) |
 | Monohull list (website) | 22 monohulls with year, cabins, WC and people. Matches our pages except: Amor Fati (Sun Odyssey 379) year 2021 (emails 2014, rebuilt 2022). Sun Odyssey 440 has no year on the list | Lefkada | 2026 | [website](https://ionionsails.com/yacht-charter-prices-greece/) |
 
+Charter prices depend on dates, availability and the market; we always check availability and send an offer.
+
 ## Lefkada catamarans (bareboat, skipper optional)
 
 All with A/C in every cabin. Check each page for generator, lithium and water maker.
