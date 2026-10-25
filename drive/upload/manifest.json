@@ -1,0 +1,320 @@
+[
+ {
+  "folder": "policies",
+  "file": "policies__booking-documents.html",
+  "title": "Booking documents and what we need from the client",
+  "bytes": 10667
+ },
+ {
+  "folder": "policies",
+  "file": "policies__cancellation.html",
+  "title": "Cancellation, date changes and rebooking",
+  "bytes": 7202
+ },
+ {
+  "folder": "policies",
+  "file": "policies__check-in.html",
+  "title": "Check-in, check-out and documents before arrival",
+  "bytes": 12816
+ },
+ {
+  "folder": "policies",
+  "file": "policies__complaints.html",
+  "title": "Complaints and problems during a charter",
+  "bytes": 10605
+ },
+ {
+  "folder": "policies",
+  "file": "policies__crew.html",
+  "title": "Crew: skipper, hostess, cook and APA",
+  "bytes": 13829
+ },
+ {
+  "folder": "policies",
+  "file": "policies__deposit-insurance.html",
+  "title": "Security deposit and damage waiver",
+  "bytes": 21422
+ },
+ {
+  "folder": "policies",
+  "file": "policies__discounts.html",
+  "title": "Discounts and offer prices",
+  "bytes": 8408
+ },
+ {
+  "folder": "policies",
+  "file": "policies__extras.html",
+  "title": "Extras, start pack and provisioning",
+  "bytes": 16220
+ },
+ {
+  "folder": "policies",
+  "file": "policies__licences.html",
+  "title": "Licences and RYA courses",
+  "bytes": 10630
+ },
+ {
+  "folder": "policies",
+  "file": "policies__options.html",
+  "title": "Options (non-binding holds)",
+  "bytes": 7263
+ },
+ {
+  "folder": "policies",
+  "file": "policies__payment.html",
+  "title": "Payment terms and methods",
+  "bytes": 9223
+ },
+ {
+  "folder": "policies",
+  "file": "policies__prices.html",
+  "title": "Prices and price levels",
+  "bytes": 3519
+ },
+ {
+  "folder": "policies",
+  "file": "policies__transfers.html",
+  "title": "Transfers and train to Nea Peramos",
+  "bytes": 9740
+ },
+ {
+  "folder": "bases",
+  "file": "bases__corfu.html",
+  "title": "Corfu base (Gouvia Marina, website only)",
+  "bytes": 3753
+ },
+ {
+  "folder": "bases",
+  "file": "bases__lefkas.html",
+  "title": "Lefkas base (Ionian)",
+  "bytes": 14152
+ },
+ {
+  "folder": "bases",
+  "file": "bases__nea-peramos.html",
+  "title": "Nea Peramos base (Saronic)",
+  "bytes": 11224
+ },
+ {
+  "folder": "bases",
+  "file": "bases__preveza.html",
+  "title": "Preveza base (website only)",
+  "bytes": 2596
+ },
+ {
+  "folder": "bases",
+  "file": "bases__winter-base.html",
+  "title": "Winter base (Nea Peramos Shipyard)",
+  "bytes": 3153
+ },
+ {
+  "folder": "bases",
+  "file": "bases__zea-marina.html",
+  "title": "Zea Marina (Athens, website only)",
+  "bytes": 1880
+ },
+ {
+  "folder": "brokers",
+  "file": "brokers__agencies.html",
+  "title": "Broker agencies seen in emails",
+  "bytes": 7685
+ },
+ {
+  "folder": "brokers",
+  "file": "brokers__broker-payments.html",
+  "title": "Broker payments",
+  "bytes": 10256
+ },
+ {
+  "folder": "brokers",
+  "file": "brokers__commission-and-invoices.html",
+  "title": "Broker commission and commission invoices",
+  "bytes": 10422
+ },
+ {
+  "folder": "brokers",
+  "file": "brokers__working-with-brokers.html",
+  "title": "Working with brokers",
+  "bytes": 9596
+ },
+ {
+  "folder": "faq",
+  "file": "faq__brokers.html",
+  "title": "FAQ for brokers",
+  "bytes": 10712
+ },
+ {
+  "folder": "faq",
+  "file": "faq__direct-clients.html",
+  "title": "FAQ for direct clients",
+  "bytes": 20323
+ },
+ {
+  "folder": "templates",
+  "file": "templates__broker-offer.html",
+  "title": "Broker offer",
+  "bytes": 5094
+ },
+ {
+  "folder": "templates",
+  "file": "templates__deposit-explanation.html",
+  "title": "Deposit explanation (Option A and Option B)",
+  "bytes": 4354
+ },
+ {
+  "folder": "templates",
+  "file": "templates__follow-up.html",
+  "title": "Follow-up on an unanswered offer",
+  "bytes": 4625
+ },
+ {
+  "folder": "templates",
+  "file": "templates__option-reminder.html",
+  "title": "Option ends tomorrow (option reminder)",
+  "bytes": 3362
+ },
+ {
+  "folder": "templates",
+  "file": "templates__our-offer.html",
+  "title": "Our Offer (direct client offer)",
+  "bytes": 5870
+ },
+ {
+  "folder": "templates",
+  "file": "templates__regarding-your-inquiry.html",
+  "title": "Regarding Your Inquiry (first reply to the website form)",
+  "bytes": 4315
+ },
+ {
+  "folder": "templates",
+  "file": "templates__welcome-on-board.html",
+  "title": "Welcome on Board (booking documents)",
+  "bytes": 4708
+ },
+ {
+  "folder": "templates",
+  "file": "templates__your-option.html",
+  "title": "Your Option on our [Boat]",
+  "bytes": 3907
+ },
+ {
+  "folder": "services",
+  "file": "services__bareboat-charters.html",
+  "title": "Bareboat charters",
+  "bytes": 3469
+ },
+ {
+  "folder": "services",
+  "file": "services__crewed-charters.html",
+  "title": "Crewed yacht charters",
+  "bytes": 2800
+ },
+ {
+  "folder": "services",
+  "file": "services__flotillas.html",
+  "title": "Flotillas (summer, themed, Explorer and Training)",
+  "bytes": 4262
+ },
+ {
+  "folder": "services",
+  "file": "services__learn-to-sail.html",
+  "title": "Learn to sail vacations (RYA)",
+  "bytes": 3939
+ },
+ {
+  "folder": "services",
+  "file": "services__maintenance.html",
+  "title": "Yacht maintenance and refit",
+  "bytes": 3203
+ },
+ {
+  "folder": "services",
+  "file": "services__private-boat-tours.html",
+  "title": "Private boat tours (Ionion Cruise day trips)",
+  "bytes": 3754
+ },
+ {
+  "folder": "services",
+  "file": "services__skippered-charters.html",
+  "title": "Skippered charters",
+  "bytes": 3117
+ },
+ {
+  "folder": "services",
+  "file": "services__yacht-management.html",
+  "title": "360 yacht management",
+  "bytes": 3172
+ },
+ {
+  "folder": "destinations",
+  "file": "destinations__ithaca.html",
+  "title": "Ithaca",
+  "bytes": 2035
+ },
+ {
+  "folder": "destinations",
+  "file": "destinations__itineraries.html",
+  "title": "Suggested itineraries (Lefkas and Corfu)",
+  "bytes": 5489
+ },
+ {
+  "folder": "destinations",
+  "file": "destinations__kalamos-kastos-atokos.html",
+  "title": "Kalamos, Kastos and Atokos",
+  "bytes": 2811
+ },
+ {
+  "folder": "destinations",
+  "file": "destinations__kefalonia.html",
+  "title": "Kefalonia",
+  "bytes": 2249
+ },
+ {
+  "folder": "destinations",
+  "file": "destinations__lefkada-meganisi.html",
+  "title": "Lefkada coast and Meganisi",
+  "bytes": 3170
+ },
+ {
+  "folder": "destinations",
+  "file": "destinations__north-paxos-corfu-mainland.html",
+  "title": "North of Lefkas: Paxoi, Antipaxos, Corfu and the mainland",
+  "bytes": 3636
+ },
+ {
+  "folder": "destinations",
+  "file": "destinations__overview.html",
+  "title": "Sailing area from Lefkas (overview)",
+  "bytes": 4196
+ },
+ {
+  "folder": "destinations",
+  "file": "destinations__zakynthos.html",
+  "title": "Zakynthos",
+  "bytes": 2194
+ },
+ {
+  "folder": "company",
+  "file": "company__about.html",
+  "title": "About IonionSails (company, team, contact)",
+  "bytes": 7149
+ },
+ {
+  "folder": "company",
+  "file": "company__why-choose-us.html",
+  "title": "Why choose us (selling points)",
+  "bytes": 6850
+ },
+ {
+  "folder": "root",
+  "file": "root__website-updates.html",
+  "title": "Website updates needed",
+  "bytes": 16949
+ },
+ {
+  "folder": "root",
+  "file": "root__missing-information.html",
+  "title": "Missing information",
+  "bytes": 4362
+ }
+]
