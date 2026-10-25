@@ -33,7 +33,7 @@ Payment dates are on [payment.md](payment.md).
 | Item | Value | Applies to | Source |
 | --- | --- | --- | --- |
 | Second payment timing | 56 days before embarkation in one thread, which conflicts with the 30 days in [D-002](../decisions/open.md#d-002) | Direct clients, 2026 | [Complaints](complaints.md) |
-| One-time date-change exception | Direct client moved a Bali 4.3 (Alba) booking to Aug 2027 at 7,700 EUR against the 10,400 EUR list price; option held to 24 Oct 2026. One-time exception, not a rule | Direct client, 2027 | [Complaints](complaints.md) |
+| One-time date-change exception | Direct client moved a Bali 4.3 (Alba) booking to Aug 2027 at the price of the new offer; option held to 24 Oct 2026. One-time exception, not a rule | Direct client, 2027 | [Complaints](complaints.md) |
 | One-time catamaran to monohull exception | Granted once on 2026-10-16. Not a rule | Direct client, 2026 | [Complaints](complaints.md) |
 | War and airspace | 2026-04-28: flexible rebooking without penalties. 2026-10-12: nothing further to reconsider. See [D-037](../decisions/open.md#d-037) | All, 2026 | [Complaints](complaints.md) |
 | Declined client | A client who declines gets a free SUP offer for future direct bookings | Direct clients | [Complaints](complaints.md) |

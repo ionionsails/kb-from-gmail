@@ -74,7 +74,6 @@ The wording about ownership and maintenance differs between emails ("privately h
 ## Open questions
 
 - [D-014](../decisions/open.md#d-014) Free extras and extra discounts (the "Extra IonionSails discount" line)
-- [D-015](../decisions/open.md#d-015) 2027 prices quoted differently for the same boat and week
 - [D-033](../decisions/open.md#d-033) Ownership and maintenance wording
 - Full Greek VAT paragraph: not found – please confirm
 

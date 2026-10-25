@@ -10,13 +10,13 @@ Every page of the sales wiki, one line each. Rules for writing and updating are 
 - [Complaints and problems during a charter](policies/complaints.md); complaint steps, goodwill cases, common technical answers, escalation, ready replies
 - [Crew: skipper, hostess, cook and APA](policies/crew.md); skipper, hostess, cook and babysitter fees, duties, APA on crewed catamarans
 - [Security deposit and damage waiver](policies/deposit-insurance.md); Option A (own insurance) vs Option B (Damage Waiver), deposit table per boat, release rules
-- [Discounts and offer prices](policies/discounts.md); discount order, 5% steps, ThankYou5, early booking and late-season ranges, goodwill extras
+- [Discounts and offer prices](policies/discounts.md); discount order, 5% steps, ThankYou5, early booking and other discount types without fixed charter prices, goodwill extras
 - [Extras, start pack and provisioning](policies/extras.md); optional extras prices, Start Pack, linen, provisioning, fuel and mooring
 - [Licences and RYA courses](policies/licences.md); bareboat licence rules, our skipper case, RYA course prices and rules
 - [Options (non-binding holds)](policies/options.md); free non-binding hold, usual length, expiry and confirmation rules
 - [Payment terms and methods](policies/payment.md); 50/50 plan, when the booking is secured, bank, card and cash rules, payment link and reference
 - [Transfers and train to Nea Peramos](policies/transfers.md); partner transfers, car rental tips, free train tickets for Nea Peramos charters
-- [Prices and price levels](policies/prices.md); price levels and why the wiki holds no fixed charter price
+- [Prices and price levels](policies/prices.md); how pricing works, what the price includes, why the wiki holds no fixed charter price
 
 ## Bases
 

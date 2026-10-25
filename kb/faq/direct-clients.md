@@ -11,7 +11,7 @@ What direct clients ask us most and our approved answer; values live on the link
 ## Questions
 
 ### Is there an early booking discount, and what is the final price?
-Yes. Our offers show the list price, then the early booking or special week discount, then an extra IonionSails discount (SaronicSails at the Athens base). Two-week charters, several yachts and returning guests can get a further step. Rates change with demand, so an offer is valid only when we send it. See [Discounts](../policies/discounts.md).
+Let me check availability for your dates and I will send you an offer. The price depends on the dates and on availability, so we cannot give a final price before that. Our offers show the offer price, then the early booking or special week discount, then an extra IonionSails discount (SaronicSails at the Athens base). Two-week charters, several yachts and returning guests can get a further step. Rates change with demand, so an offer is valid only when we send it. The price includes VAT, gas, water, dinghy, linen and towels, and harbour fees for the first and last night. See [Prices](../policies/prices.md) and [Discounts](../policies/discounts.md).
 Asked: 119. Example: [offer with discount stack](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-1874254210341252282)
 
 ### How does the security deposit work, and what is the Damage Waiver?
@@ -188,7 +188,7 @@ Asked: from the website, not counted. Source: [pets article](https://ionionsails
 
 ## Open questions
 
-[D-001](../decisions/open.md#d-001), [D-002](../decisions/open.md#d-002), [D-003](../decisions/open.md#d-003), [D-007](../decisions/open.md#d-007), [D-008](../decisions/open.md#d-008), [D-010](../decisions/open.md#d-010), [D-014](../decisions/open.md#d-014), [D-015](../decisions/open.md#d-015), [D-016](../decisions/open.md#d-016), [D-017](../decisions/open.md#d-017), [D-018](../decisions/open.md#d-018), [D-020](../decisions/open.md#d-020), [D-021](../decisions/open.md#d-021), [D-022](../decisions/open.md#d-022), [D-023](../decisions/open.md#d-023), [D-024](../decisions/open.md#d-024), [D-025](../decisions/open.md#d-025), [D-026](../decisions/open.md#d-026), [D-027](../decisions/open.md#d-027), [D-028](../decisions/open.md#d-028), [D-029](../decisions/open.md#d-029), [D-030](../decisions/open.md#d-030), [D-031](../decisions/open.md#d-031), [D-033](../decisions/open.md#d-033), [D-034](../decisions/open.md#d-034), [D-035](../decisions/open.md#d-035), [D-036](../decisions/open.md#d-036), [D-037](../decisions/open.md#d-037)
+[D-001](../decisions/open.md#d-001), [D-002](../decisions/open.md#d-002), [D-003](../decisions/open.md#d-003), [D-007](../decisions/open.md#d-007), [D-008](../decisions/open.md#d-008), [D-010](../decisions/open.md#d-010), [D-014](../decisions/open.md#d-014), [D-016](../decisions/open.md#d-016), [D-017](../decisions/open.md#d-017), [D-018](../decisions/open.md#d-018), [D-020](../decisions/open.md#d-020), [D-021](../decisions/open.md#d-021), [D-022](../decisions/open.md#d-022), [D-023](../decisions/open.md#d-023), [D-024](../decisions/open.md#d-024), [D-025](../decisions/open.md#d-025), [D-026](../decisions/open.md#d-026), [D-027](../decisions/open.md#d-027), [D-028](../decisions/open.md#d-028), [D-029](../decisions/open.md#d-029), [D-030](../decisions/open.md#d-030), [D-031](../decisions/open.md#d-031), [D-033](../decisions/open.md#d-033), [D-034](../decisions/open.md#d-034), [D-035](../decisions/open.md#d-035), [D-036](../decisions/open.md#d-036), [D-037](../decisions/open.md#d-037)
 
 ## Related
 

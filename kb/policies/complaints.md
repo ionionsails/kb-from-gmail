@@ -38,7 +38,7 @@ These are cases, not a policy. Do not quote one as our standard.
 | 2026-09-23 | Rubaiyat, several points reviewed one by one | Direct guest | 400 EUR voucher toward a future charter |
 | 2026-10-14 | A partner base's 200 EUR deposit-waiver voucher does not generally apply to us | Direct guest | 200 EUR voucher toward a future charter |
 
-Internal only, never for the customer: one team member thought 1,000 EUR was high and could turn into cash payouts. The case guests implicitly asked about was two lost days, net price about 2,400 EUR.
+Internal only, never for the customer: one team member thought 1,000 EUR was high and could turn into cash payouts. The case guests implicitly asked about was two lost days of the charter.
 
 ### Common technical answers
 

@@ -38,16 +38,7 @@ Commission is shown in the broker offer as a percentage taken after the discount
 | NET package | No commission invoice needed | travel agencies | all | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875035687194511123) |
 | When we are the broker | We send our own commission invoice to the operator after the charter | Bax Yachting boats | 2026 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1854382799844835222) |
 
-Offer examples from emails (price, after discount, total after commission):
-
-| yacht and week | after discount | total after commission |
-| --- | --- | --- |
-| Bavaria C38, 1 to 8 May 2027 | 1,750.00 | 1,467.74 |
-| Bali 4.1, 3 to 10 Oct 2026 | 3,926.00 | 3,292.77 |
-| Bali 4.8 crewed, June 2027 | 11,200.00 | 9,845.16 |
-| Extra days, 4 x 300 | 1,200.00 | 1,006.45 (commission 193.55) |
-
-Prices are examples of how an offer is built, not a price list. Boat prices live in the offers and in [Discounts](../policies/discounts.md).
+The offer shows the price after discounts, the commission and the net total to us. Boat prices depend on dates and availability and live only in the offers, see [Prices](../policies/prices.md) and [Discounts](../policies/discounts.md). How the commission is calculated: [D-012](../decisions/open.md#d-012).
 
 ## How we answer
 

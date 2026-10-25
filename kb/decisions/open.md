@@ -26,7 +26,6 @@ When a decision is taken: move it to [decided.md](decided.md) with date and name
 | [D-012](#d-012) | How the commission and net price are calculated | brokers/commission-and-invoices.md |
 | [D-013](#d-013) | Commission invoice: addressee, timing, payment | brokers/commission-and-invoices.md |
 | [D-014](#d-014) | Free extras and extra discounts | policies/discounts.md |
-| [D-015](#d-015) | 2027 prices: same boat and week quoted differently | policies/discounts.md |
 | [D-016](#d-016) | Damage Waiver fee and refundable part per boat size | policies/deposit-insurance.md |
 | [D-017](#d-017) | Security deposit per boat | policies/deposit-insurance.md |
 | [D-018](#d-018) | Deposit and Damage Waiver with a skipper on board | policies/deposit-insurance.md |
@@ -338,27 +337,6 @@ Question: When do we give a free outboard, SUP or Wi-Fi, or an extra discount, a
 Suggestion (not decided): One free extra (outboard or SUP) as goodwill to close a booking, none above 60% discount (most frequent). Approver: not found.
 
 Affects: [discounts.md](../policies/discounts.md), [extras.md](../policies/extras.md), [direct-clients.md](../faq/direct-clients.md), [brokers.md](../faq/brokers.md)
-
-Status: open
-
-<a id="d-015"></a>
-
-## D-015 2027 prices: same boat and week quoted differently
-
-Question: Is there one discount table per boat and week, and which price stands when offers differ or the maths does not add up?
-
-| version | where / when | example |
-| --- | --- | --- |
-| Hydra XV 14-21 Aug 2027: -22% 10,800 vs -33.33% 9,800 | 2026-08-31 and 2026-09-06 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1875492680478010968) |
-| Hydra XV 4-11 Sep 2027: five final prices, 8,590 to 9,990 | 2026-09-04 to 2026-10-18 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r51619187761718347) |
-| Rubaiyat 19-26 Jun 2027: 7,950 vs 8,100 | 2026-10-03 and 2026-10-13 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1878882571641662001) |
-| Monohulls 19 Jun-3 Jul 2027: -20% vs -25% | 2026-09-13 and 2026-09-29 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877419305609066879) |
-| Late season 2026, same boat and week: Lagoon 40 3,370 vs 3,160 | 2026-09-26 and 2026-09-30 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1877692946785653583) |
-| Maths errors: Hydra XV 1-8 May shows 4,984 then 4,000; Celavie III 7,600 vs 9,520 | 2026-10-08 and 2026-10-16 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-992484109127905157) |
-
-Suggestion (not decided): Use the most recent offer for each boat and week; recheck the maths before reusing an older offer.
-
-Affects: [discounts.md](../policies/discounts.md), [our-offer.md](../templates/our-offer.md), [broker-offer.md](../templates/broker-offer.md)
 
 Status: open
 
@@ -754,17 +732,14 @@ Status: open
 
 ## D-034 Day cruises: prices and availability
 
-Question: What are the day cruise prices for 2027, and do we still sell monohull and catamaran day cruises?
+Question: Do we still sell monohull and catamaran day cruises? (Day cruise prices depend on date and boat and are not stored here.)
 
 | version | where / when | example |
 | --- | --- | --- |
-| Athos 590 + skipper 210; Pathos 690 + 210 | 2026-08-31 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r1417143389099473832) |
-| Athos 500 + 210; Pathos 540 + 210 | 2026-09-14 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r8969726113201457806) |
-| Athos 600 + 200; Pathos 800 + 200; Breathless II 1,000 + 200 | for 2 July 2027, quoted 2026-10-16 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r3224698397064099355) |
 | Monohull and cat day cruises fully booked, only RIBs, while the website advertises them | 2026-08-28, 2026-09-09 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874399525473525641) |
 | Fully private day cruises on RIBs, motor boats and catamarans, no prices, flexible times (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/private-boat-tours/) |
 
-Suggestion (not decided): 2027: use the 2026-10-16 quote (most recent). Confirm if the Aug vs Sep 2026 difference was seasonal.
+Suggestion (not decided): Show on the website only what is really available; quote day cruises per date by offer.
 
 Affects: [fleet.md](../fleet/fleet.md), [extras.md](../policies/extras.md), [direct-clients.md](../faq/direct-clients.md)
 
@@ -990,7 +965,7 @@ Question: Can we say a reservation without a broker gives the lowest charter fee
 | '100% unbeatable prices'; because the fleet is privately owned and there is no broker, a direct reservation gives the lowest fee; 'you never pay list price' (website) | website, fetched 2026-10-25 | [website](https://ionionsails.com/why-choose-us/) |
 | Brokers book the same boats on our terms and may give up to 5% off from their own commission. Our rates are 'usually already our best' and we compare competing offers. No email says direct is the cheapest | emails, 2026-08 to 2026-10 | see wiki pages under Affects |
 
-Suggestion (not decided): Do not promise the lowest price in writing. Decide if the website claim stays.
+Suggestion (not decided): Do not promise the lowest price or a fixed price in writing. Say that prices depend on dates and availability, that the offer shows the discounts, and that we compare a competing offer if the client sends it. Decide if the website claim stays.
 
 Affects: [selling-points.md](../fleet/selling-points.md), [direct-clients.md](../faq/direct-clients.md)
 
@@ -1009,7 +984,7 @@ Not found in the emails. Write `not found – please confirm` on the page until 
 
 ### policies/discounts.md
 
-- Official 2027 early booking table per boat and week; date 2027 early booking opens (see [D-015](#d-015))
+- Date 2027 early booking opens
 - Group discount (several boats, 4-boat request)
 - Discount on the skipper fee
 - 5% non-refundable 2027 discount and partnership request from a new broker
@@ -1085,6 +1060,10 @@ Not found in the emails. Write `not found – please confirm` on the page until 
 - Winter storage and mooring: rates, availability, maintenance, staying on board
 
 ## Not conflicts
+
+<a id="d-015"></a>
+
+D-015 removed 2026-10-25: different prices for the same boat and week are normal; prices depend on dates, availability and the market.
 
 Not conflicts (kept per boat, size, client type, season or option on the pages): deposits and cleaning per boat or size band; deposit halved with a skipper (e.g. 4,000 to 2,000, Hydra XV 4,500 to 2,250); own insurance (full deposit) vs Damage Waiver (1,000 + fee); skipper 1,400 in 2026 vs 1,470 in 2027; prices of the same boat in different weeks (Hydra XV, Theros); broker -15% plus commission vs direct -20% -5%; partner boats with their own terms (Saba 50, Oceanis 38.1, Lagoon 50, Bali 4.6, partner BBQ); one-week vs two-week extras prices; different transfer routes and vehicles (Corfu, Igoumenitsa, van vs minibus); late return 17:00 at Nea Peramos partner boats; one-off items already closed (platform payment error, 1 cent VAT rounding, spam incident, Bali 4.2 aft door typo, Navionics vs Imray, Oceanis 40.1 cabins, extras paid in cash).
 
