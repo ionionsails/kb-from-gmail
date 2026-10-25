@@ -88,7 +88,7 @@ Spam incident:
 | Situation | Who |
 | --- | --- |
 | Technical complaint during the charter | Technical team, then discuss at Friday check-out |
-| Goodwill amount | Director agrees the amount. Broker vouchers are checked with us first |
+| Goodwill amount | Thalia (CEO) agrees the amount. Broker vouchers are checked with us first |
 | Owner of the yacht affected | Owner's agent joins the internal review |
 | Owner or yacht management enquiry | Sales and Fleet Development Manager (sales mailbox), not the complaints flow |
 | Winter storage request | Technical mailbox. No rates or answers found, please confirm |

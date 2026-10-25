@@ -4,6 +4,20 @@ This folder is the sales knowledge base of IonionSails (yacht charter, Lefkada; 
 It is built from our real emails and kept up to date by Claude. The Sales plugin reads it to answer
 clients and brokers the way our team does.
 
+## Team
+
+| Person | Role | Notes |
+| --- | --- | --- |
+| Gabi | Owner and founder | |
+| Thalia Zakinthinou | CEO | Some email signatures say "Director". Final say on goodwill and exceptions. |
+| George Kritikos | Charter Manager & Yacht Sales | |
+| Georgios Katsifis | Chartering | |
+| Ileana Dallos | Office Admin | |
+| Thomais Kontogiorgi | not confirmed | Answers client emails (deposit, payments, berths). Role to confirm. |
+
+Answers from all of the above count as team answers. Answers or exceptions from Gabi or Thalia carry
+the most weight when the team's emails disagree.
+
 ## Folders
 
 | Folder | One page per | What it holds |

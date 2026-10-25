@@ -18,7 +18,7 @@ The email that sends the booking documents to the charterer. Often preceded by a
 | Documents | Booking Confirmation (payment terms, bank details), Charter Party (signed copy back), Boarding Pass with yacht details and crew list link. Other packages exist, see D-007. | all | all | see examples |
 | Payment reference | Booking confirmation number | all | all | see [D-010](../decisions/open.md#d-010) |
 | Crew list | Deadline lives on [Booking documents](../policies/booking-documents.md). Placeholder: [crew list deadline]. | all | all | see [D-008](../decisions/open.md#d-008) |
-| Sign-off | Best regards, IonionSails Team (the real emails come from the Charter Manager, Chartering Department or Director) | all | all | see examples |
+| Sign-off | Best regards, IonionSails Team (the real emails come from the Charter Manager, the Chartering Department or Thalia, CEO) | all | all | see examples |
 
 ## How we answer
 
@@ -59,7 +59,7 @@ Note: the numbered list is kept here because it is a document list inside the em
 ## Examples
 
 - [Welcome on Board with Boarding Pass](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r6687077659634441532)
-- [Welcome on Board, Director signature](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r1355434502876477843)
+- [Welcome on Board, signed by Thalia (CEO)](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r1355434502876477843)
 - [Version with crew list and base brochure attached](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-7214454178757036902)
 
 ## Related

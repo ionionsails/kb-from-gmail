@@ -294,7 +294,7 @@ Question: Who is the commission invoice addressed to, when does the broker issue
 | version | where / when | example |
 | --- | --- | --- |
 | Address to the boat ownership company on the charter party | 2026-08-12, 2026-08-27, 2026-10-15 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-8906005858316474155) |
-| Address to our company / director details | 2026-10-01, 2026-10-09 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876571031318957080) |
+| Address to our company / management details | 2026-10-01, 2026-10-09 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1876571031318957080) |
 | Issued after the second payment / when fully paid | 2025-11-10 to 2026-08-27 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1865690862825955509) |
 | Issued after we confirm the booking | 2026-04-16, 2026-08-24 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-f:1874418477706428037) |
 | Issued after the signed charter party | 2026-08-27 | [email](https://mail.google.com/mail/?authuser=info@ionionsails.com#all/thread-a:r-1896532375778654453) |
